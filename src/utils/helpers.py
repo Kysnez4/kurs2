@@ -28,7 +28,7 @@ def convert_to_vacancy_objects(data: List[Dict]) -> List[Vacancy]:
                 employer=employer.get("name", ""),
             )
             vacancies.append(vacancy)
-        except ValueError as e:
+        except ValueError:
             continue
 
     return vacancies

@@ -1,8 +1,10 @@
 import json
-from pathlib import Path
-from typing import List, Dict, Any
 import logging
+from pathlib import Path
+from typing import Any, Dict, List
+
 from src.files.abstract_file import AbstractFile
+
 
 class JSONFile(AbstractFile):
     """Класс для работы с JSON-файлами"""
@@ -16,7 +18,7 @@ class JSONFile(AbstractFile):
         try:
             Path(self.__filename).parent.mkdir(parents=True, exist_ok=True)
             if not Path(self.__filename).exists():
-                with open(self.__filename, 'w', encoding='utf-8') as f:
+                with open(self.__filename, "w", encoding="utf-8") as f:
                     json.dump([], f, ensure_ascii=False, indent=2)
         except (IOError, OSError) as e:
             logging.error(f"Ошибка при создании файла: {e}")
@@ -38,7 +40,7 @@ class JSONFile(AbstractFile):
     def get_vacancies(self) -> List[Dict[str, Any]]:
         """Получение всех вакансий из JSON-файла"""
         try:
-            with open(self.__filename, 'r', encoding='utf-8') as f:
+            with open(self.__filename, "r", encoding="utf-8") as f:
                 content = f.read()
                 if not content.strip():  # Если файл пустой
                     return []
@@ -58,7 +60,7 @@ class JSONFile(AbstractFile):
     def _save_to_file(self, data: List[Dict[str, Any]]) -> None:
         """Приватный метод для сохранения данных в файл"""
         try:
-            with open(self.__filename, 'w', encoding='utf-8') as f:
+            with open(self.__filename, "w", encoding="utf-8") as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
         except Exception as e:
             logging.error(f"Ошибка при сохранении в файл: {e}")

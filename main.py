@@ -1,5 +1,6 @@
 import logging
 import os
+
 from src.api.hh_api import HeadHunterAPI
 from src.files.json_file import JSONFile
 from src.utils.helpers import convert_to_vacancy_objects, filter_vacancies
