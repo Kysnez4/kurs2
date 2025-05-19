@@ -1,14 +1,10 @@
+import logging
 from typing import Dict, List
 
 from src.models.vacancy import Vacancy
 
 
 def convert_to_vacancy_objects(data: List[Dict]) -> List[Vacancy]:
-    """
-    Конвертация данных из API в список объектов Vacancy
-    :param data: Список словарей с данными о вакансиях
-    :return: Список объектов Vacancy
-    """
     vacancies = []
     for item in data:
         if not isinstance(item, dict):
@@ -19,16 +15,23 @@ def convert_to_vacancy_objects(data: List[Dict]) -> List[Vacancy]:
         employer = item.get("employer") or {}
 
         try:
+            # Очистка строк от проблемных символов
+            title = item.get("name", "").encode('utf-8', 'ignore').decode('utf-8')
+            url = item.get("alternate_url", "")
+            description = snippet.get("requirement", "").encode('utf-8', 'ignore').decode('utf-8')
+            employer_name = employer.get("name", "").encode('utf-8', 'ignore').decode('utf-8')
+
             vacancy = Vacancy(
-                title=item.get("name", ""),
-                url=item.get("alternate_url", ""),
+                title=title,
+                url=url,
                 salary_from=salary.get("from") if salary else None,
                 salary_to=salary.get("to") if salary else None,
-                description=snippet.get("requirement", ""),
-                employer=employer.get("name", ""),
+                description=description,
+                employer=employer_name,
             )
             vacancies.append(vacancy)
-        except ValueError:
+        except Exception as e:
+            logging.error(f"Ошибка при создании вакансии: {e}")
             continue
 
     return vacancies

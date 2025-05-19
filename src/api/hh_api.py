@@ -1,6 +1,7 @@
 from typing import Dict, List
 
 import requests
+from requests import Response
 
 from src.api.abstract_api import AbstractAPI
 
@@ -10,13 +11,14 @@ class HeadHunterAPI(AbstractAPI):
 
     def __init__(self):
         self.__base_url = "https://api.hh.ru/vacancies"
-        self._connect_to_api()
 
-    def _connect_to_api(self) -> None:
+    def _connect_to_api(self) -> Response:
         """Приватный метод для проверки соединения с API"""
         response = requests.get(self.__base_url)
         if response.status_code != 200:
             raise ConnectionError(f"Ошибка подключения к API. Код: {response.status_code}")
+        else:
+            return response
 
     def get_vacancies(self, keyword: str, per_page: int = 100) -> List[Dict]:
         """

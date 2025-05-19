@@ -2,7 +2,7 @@ from src.models.vacancy import Vacancy
 from src.utils.helpers import convert_to_vacancy_objects, filter_vacancies
 
 
-class TestHelpers:
+class TestHelpers: # pragma: no cover
     """Тесты вспомогательных функций"""
 
     def test_convert_to_vacancy_objects(self):

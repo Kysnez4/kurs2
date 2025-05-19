@@ -36,6 +36,18 @@ class Vacancy:
             "employer": self.employer,
         }
 
+    @classmethod
+    def from_db_row(cls, row: tuple) -> "Vacancy":
+        """Создание объекта Vacancy из строки БД"""
+        return cls(
+            title=row[0],
+            url=row[1],
+            salary_from=row[2],
+            salary_to=row[3],
+            description=row[4],
+            employer=row[5],
+        )
+
     def __lt__(self, other: "Vacancy") -> bool:
         """Сравнение вакансий по минимальной зарплате"""
         return (self.salary_from or 0) < (other.salary_from or 0)
@@ -52,6 +64,6 @@ class Vacancy:
             f"Вакансия: {self.title}\n"
             f"Компания: {self.employer}\n"
             f"{salary_info}\n"
-            f"Описание: {self.description[:100]}...\n"
+            f"Описание: {self.description}...\n"
             f"Ссылка: {self.url}\n"
         )

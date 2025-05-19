@@ -7,7 +7,7 @@ import pytest
 from src.files.json_file import JSONFile
 
 
-class TestJSONFile:
+class TestJSONFile: # pragma: no cover
     """Тесты для класса JSONFile"""
 
     TEST_FILE = "tests/test_vacancies.json"

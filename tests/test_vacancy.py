@@ -3,7 +3,7 @@ import pytest
 from src.models.vacancy import Vacancy
 
 
-class TestVacancy:
+class TestVacancy: # pragma: no cover
     """Тесты для класса Vacancy"""
 
     def test_vacancy_creation_valid(self):

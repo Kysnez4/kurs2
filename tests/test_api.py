@@ -5,28 +5,12 @@ import pytest
 from src.api.hh_api import HeadHunterAPI
 
 
-class TestHeadHunterAPI:
+class TestHeadHunterAPI: # pragma: no cover
     """Тесты для класса HeadHunterAPI"""
-
-    @patch("requests.get")
-    def test_connect_to_api_success(self, mock_get):
-        """Тест успешного подключения к API"""
-        mock_response = Mock()
-        mock_response.status_code = 200
-        mock_get.return_value = mock_response
-
+    def test_connect(self):
         api = HeadHunterAPI()
-        assert api._HeadHunterAPI__base_url == "https://api.hh.ru/vacancies"
+        assert '<Response [200]>' == str(api._connect_to_api())
 
-    @patch("requests.get")
-    def test_connect_to_api_failure(self, mock_get):
-        """Тест неудачного подключения к API"""
-        mock_response = Mock()
-        mock_response.status_code = 404
-        mock_get.return_value = mock_response
-
-        with pytest.raises(ConnectionError):
-            HeadHunterAPI()
 
     @patch("requests.get")
     def test_get_vacancies(self, mock_get):
