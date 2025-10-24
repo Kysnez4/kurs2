@@ -1,26 +1,24 @@
-[project]
+[tool.poetry]
 name = "kurs2"
 version = "0.1.0"
 description = ""
-authors = [
-    {name = "Kysnez4",email = "kysnez4@gmail.com"}
-]
+authors = ["Kysnez4 <kysnez4@gmail.com>"]
 readme = "README.md"
-requires-python = ">=3.13"
-dependencies = [
-    "isort (>=6.0.1,<7.0.0)",
-    "black (>=25.1.0,<26.0.0)",
-    "mypy (>=1.15.0,<2.0.0)",
-    "pytest (>=8.3.5,<9.0.0)",
-    "pytest-cov (>=6.1.1,<7.0.0)",
-    "flake8 (>=7.2.0,<8.0.0)",
-    "requests (>=2.32.3,<3.0.0)",
-    "psycopg2 (>=2.9.10,<3.0.0)"
-]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+poetry-core = "^2.2.1"
+requests = "^2.32.5"
+psycopg2-binary = "^2.9.11"
+mypy = "^1.18.2"
+black = "^25.9.0"
+isort = "^7.0.0"
+flake8 = "^7.3.0"
+pytest = "^8.4.2"
 
 
 [build-system]
-requires = ["poetry-core>=2.0.0,<3.0.0"]
+requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.black]
@@ -36,3 +34,4 @@ strict = true
 disallow_untyped_defs = true
 warn_return_any = true
 exclude = "venv"
+
