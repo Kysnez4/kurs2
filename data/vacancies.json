@@ -1,0 +1,2426 @@
+[
+  {
+    "title": "Разработчик С++",
+    "url": "https://hh.ru/vacancy/120362891",
+    "salary_from": 180000,
+    "salary_to": 300000,
+    "description": "Опыт работы с <highlighttext>С++</highlighttext> от 1,5-2 лет. Опыт разработки БД. Опыт разработки микросервисов. Знание принципов обеспечения отказоустойчивости систем. ",
+    "employer": "Tech Horizon"
+  },
+  {
+    "title": "Junior C++ developer",
+    "url": "https://hh.ru/vacancy/120019717",
+    "salary_from": 70000,
+    "salary_to": null,
+    "description": "Уверенное использование STL (контейнеры, итераторы, алгоритмы). Практический опыт работы с файлами на <highlighttext>C++</highlighttext> (библиотека fstream). Базовые знания в области многопоточного...",
+    "employer": "Панина Анастасия Александровна"
+  },
+  {
+    "title": "Эксперт Unreal Engine (интеграция, Blueprints/C++)",
+    "url": "https://hh.ru/vacancy/120349008",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Глубокий опыт работы с Unreal Engine Pixel Streaming и WebRTC. Подтверждённый опыт развёртывания Unreal Engine как облачного сервиса с доступом...",
+    "employer": "Paragon Software"
+  },
+  {
+    "title": "Программист C++",
+    "url": "https://hh.ru/vacancy/119490566",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знать языки программирования <highlighttext>C++</highlighttext> (обязательно). Иметь опыт работы с Visual Studio. Знать принципы работы CMake. Знать прикладную математику на уровне...",
+    "employer": "Центр инновационных технологий"
+  },
+  {
+    "title": "Junior C++ Developer",
+    "url": "https://hh.ru/vacancy/119774968",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знание C/<highlighttext>C++</highlighttext>. - Владение ООП, шаблонами проектирования. - Базовое понимание алгоритмов и структур данных. - Способность работать автономно и в команде. ",
+    "employer": "Пресс Фире Гамес"
+  },
+  {
+    "title": "Разработчик C++",
+    "url": "https://hh.ru/vacancy/120398771",
+    "salary_from": 170000,
+    "salary_to": 250000,
+    "description": "Опыт работы от 3 лет на позиции <highlighttext>С++</highlighttext> разработчика. Знание классических алгоритмов и структур данных. Опыт написания многопоточных и/или...",
+    "employer": "DCloud"
+  },
+  {
+    "title": "Разработчик C++",
+    "url": "https://hh.ru/vacancy/120324103",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы от 3х лет. Хорошее знание <highlighttext>С++</highlighttext> теории (контейнеры, умные указатели, многопоточность из stl). Создание unit тестов (gtest...",
+    "employer": "ГК Орбита"
+  },
+  {
+    "title": "Программист С++ (Junior/Middle)",
+    "url": "https://hh.ru/vacancy/120268685",
+    "salary_from": 80000,
+    "salary_to": 200000,
+    "description": "Знание <highlighttext>С++</highlighttext>, ООП. Приветствуется знание Qt, SQL, PL\\SQL, Oracle, Postgres. Умение системно мыслить и владение навыками ООП.",
+    "employer": "Омегасофтвер Рус"
+  },
+  {
+    "title": "Разработчик C++",
+    "url": "https://hh.ru/vacancy/120360629",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Уверенное знание С и <highlighttext>C++</highlighttext>11, STL (у нас используется <highlighttext>C++</highlighttext>11). Умение разбираться в чужом коде. Рефакторинг чужого кода. ",
+    "employer": "Кросстех Солюшнс Групп"
+  },
+  {
+    "title": "Junior Software Developer (C/C++/C#)",
+    "url": "https://hh.ru/vacancy/88002912",
+    "salary_from": 130000,
+    "salary_to": null,
+    "description": "Продвинутое владение хотя бы одним современным языком общего назначения (С/<highlighttext>C++</highlighttext>, C# или Java). Фундаментальные знания в области программирования (структуры...",
+    "employer": "ВСВН Лаб"
+  },
+  {
+    "title": "С++ developer",
+    "url": "https://hh.ru/vacancy/120397268",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт разработки под Linux. Хорошее знание <highlighttext>С++</highlighttext>17 и выше, STL, git, cmake, gtest. Опыт разработки многопоточных клиент-серверных приложений. ",
+    "employer": "Гарда Технологии"
+  },
+  {
+    "title": "Разработчик C++",
+    "url": "https://hh.ru/vacancy/120160381",
+    "salary_from": 150000,
+    "salary_to": null,
+    "description": "Проектирование решений и архитектуры программного обеспечения. -Глубокое знание и понимание языков С/<highlighttext>С++</highlighttext>, стандартов C+11/C+14, библиотек STL...",
+    "employer": "ОПЦИОН, ИФК"
+  },
+  {
+    "title": "Разработчик C++",
+    "url": "https://hh.ru/vacancy/120389444",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Уверенное владение языком <highlighttext>C++</highlighttext>. Навыки разработки сетевых приложений, знание и понимание современных сетевых протоколов. Навыки разработки надежных многопоточных приложений. ",
+    "employer": "IVIDEON"
+  },
+  {
+    "title": "Инженер-программист Go/C++",
+    "url": "https://hh.ru/vacancy/120315832",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы с <highlighttext>C++</highlighttext>/Go + знания основных стандартных библиотек. Уверенные знания Linux (используем Ubuntu). Опыт сетевого программирования под Linux. ",
+    "employer": "HEX.TEAM"
+  },
+  {
+    "title": "С++ Unreal Engine developer (BP)",
+    "url": "https://hh.ru/vacancy/119728664",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "...разработке на Unreal Engine, используя <highlighttext>C++</highlighttext> (17 и 20 стандарты). Глубокие знания языка программирования <highlighttext>C++</highlighttext> и принципов объектно-ориентированного программирования. ",
+    "employer": "letitgo.agency"
+  },
+  {
+    "title": "Разработчик C++",
+    "url": "https://hh.ru/vacancy/120245096",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "1. Опыт работы: junior+, middle. 2. Основной язык разработки <highlighttext>с++</highlighttext>17, хорошее знание классических алгоритмов, структур данных. И шаблонов проектирования. ",
+    "employer": "Стартап Лаборатория"
+  },
+  {
+    "title": "Middle developer C++ UE5",
+    "url": "https://hh.ru/vacancy/119989744",
+    "salary_from": 200000,
+    "salary_to": null,
+    "description": "Уверенное владение Unreal Engine 5. -Продвинутое знание <highlighttext>C++</highlighttext> в контексте Unreal Engine 5. - Уверенные знания Blueprints, ООП, КОП и опыт...",
+    "employer": "Денисова Юлия Сергеевна"
+  },
+  {
+    "title": "Разработчик С++",
+    "url": "https://hh.ru/vacancy/119602740",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знание языка программирования <highlighttext>C++</highlighttext>. Знание языка построения запросов SQL. Владение ПК на уровне уверенного пользователя (настройка ОС семейства Windows , установка...",
+    "employer": "R-Style Softlab (Эр-Стайл Софтлаб)"
+  },
+  {
+    "title": "Программист С/C++",
+    "url": "https://hh.ru/vacancy/120217368",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знание хотя бы одного языка программирования (C/<highlighttext>C++</highlighttext>, Python, Go, Rust или аналогичного). Базовое понимание сетевых протоколов (TCP/IP, HTTP...",
+    "employer": "КДМ"
+  },
+  {
+    "title": "C++ разработчик",
+    "url": "https://hh.ru/vacancy/120289112",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "5+ лет опыта работы с современными стандартами <highlighttext>C++</highlighttext> 17/20. Большой опыт работы с Linux. Опыт работы в системах...",
+    "employer": "Alex Staff Agency"
+  },
+  {
+    "title": "Разработчик C++",
+    "url": "https://hh.ru/vacancy/120280936",
+    "salary_from": 250000,
+    "salary_to": 450000,
+    "description": "Опыт разработки на <highlighttext>С++</highlighttext> от 5 лет. Опыт многопоточного программирования. Опыт масштабирования систем/работы с большим объемом данных. ",
+    "employer": "HR Prime"
+  },
+  {
+    "title": "Middle C++ Developer",
+    "url": "https://hh.ru/vacancy/120328750",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "3+ лет коммерческого опыта разработки desktop приложений на <highlighttext>C++</highlighttext> (11/14/17). Понимание ООП и стандартных шаблонов проектирования и...",
+    "employer": "Юнити,ООО"
+  },
+  {
+    "title": "Программист игровой логики (C++, junior/middle)",
+    "url": "https://hh.ru/vacancy/119688685",
+    "salary_from": 120000,
+    "salary_to": 200000,
+    "description": "Уверенное владение <highlighttext>C++</highlighttext> (17-го стандарта будет достаточно). Владение 2D/3D математикой (векторы, матрицы, скалярное/векторное произведение и...",
+    "employer": "Unigine"
+  },
+  {
+    "title": "Разработчик C++ QT5",
+    "url": "https://hh.ru/vacancy/119571117",
+    "salary_from": 200000,
+    "salary_to": 500000,
+    "description": "Опыт работы разработчиком <highlighttext>C++</highlighttext> с использованием Qt5 от 3 лет. Отличное знание <highlighttext>C++</highlighttext> и опыт работы с библиотеками Qt...",
+    "employer": "VPNM (Тихонов Денис Олегович)"
+  },
+  {
+    "title": "Разработчик C++",
+    "url": "https://hh.ru/vacancy/119024025",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт участия в командной разработке на языках C/<highlighttext>C++</highlighttext>. Опыт разработки системного ПО, включая сервисы и/или драйвера. ",
+    "employer": "Безопасные программные решения"
+  },
+  {
+    "title": "Программист С++",
+    "url": "https://hh.ru/vacancy/120060073",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт разработки на <highlighttext>С++</highlighttext> не менее 2х лет. Уверенный пользователь Linux. Понимание принципов кросс-платформенной сборки. Jira/Gitlab CICD...",
+    "employer": "АЛМИ Партнер"
+  },
+  {
+    "title": "Программист С++",
+    "url": "https://hh.ru/vacancy/119927029",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Глубокое знание <highlighttext>C++</highlighttext> и опыт работы с библиотекой STL. Базовые навыки администрирования Linux и опыт работы с многопоточными приложениями. ",
+    "employer": "НОРСИ-ТРАНС"
+  },
+  {
+    "title": "Инженер-программист С/С++",
+    "url": "https://hh.ru/vacancy/119560858",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знание С/<highlighttext>С++</highlighttext>. Знание архитектуры ОС Linux, QNX (ARM, х86) . Знание принципов межпроцессного взаимодействия, многопоточности, синхронизации, сетевого стека. ",
+    "employer": "ТРЭИ"
+  },
+  {
+    "title": "Программист C++",
+    "url": "https://hh.ru/vacancy/115397591",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Высшее техническое образование. Уверенное знание современных стандартов языка (вплоть до <highlighttext>C++</highlighttext>20). Навык работы с шаблонным кодом. Знание и понимание...",
+    "employer": "АСКОН"
+  },
+  {
+    "title": "Программист C/C++ (Middle)",
+    "url": "https://hh.ru/vacancy/120404825",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знание и опыт программирования на C/<highlighttext>C++</highlighttext> (от года). Опыт работы с ОС реального времени (FreeRTOS). Опыт программирования микроконтроллеров семейства...",
+    "employer": "РТК Автоматика"
+  },
+  {
+    "title": "Разработчик С++",
+    "url": "https://hh.ru/vacancy/119575631",
+    "salary_from": 250000,
+    "salary_to": 400000,
+    "description": "Опыт от 3 лет в разработке на <highlighttext>C++</highlighttext> (STL, ООП). - Владение <highlighttext>C++</highlighttext>17 и выше (мы используем <highlighttext>C++</highlighttext>20). - ",
+    "employer": "Системы Управления"
+  },
+  {
+    "title": "Младший разработчик C++",
+    "url": "https://hh.ru/vacancy/119605466",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знание <highlighttext>С++</highlighttext>11/14/17. Знание и умение применять на практике принципы ООП. Умение работать с системой контроля версий Git. ",
+    "employer": "СиСофт, (CSoft)"
+  },
+  {
+    "title": "Младший программист C++ / Junior C++ Developer (Windows, UNIX)",
+    "url": "https://hh.ru/vacancy/110606712",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знание <highlighttext>C++</highlighttext> и STL. Понимание принципов объектно-ориентированного программирования. Знание классических алгоритмов и структур данных. Технический английский. Опыт разработки многопоточных...",
+    "employer": "Доктор Веб"
+  },
+  {
+    "title": "Программист C/C++",
+    "url": "https://hh.ru/vacancy/119879700",
+    "salary_from": 190000,
+    "salary_to": 259000,
+    "description": "Знание принципов объектно-ориентированного программирования. Хорошее знание С/<highlighttext>C++</highlighttext>. Знание WinAPI, технологии COM, библиотек доступа к данным. Базовое владение SQL...",
+    "employer": "Никс"
+  },
+  {
+    "title": "Реверс-инженер / разработчик C/C++ (Windows)",
+    "url": "https://hh.ru/vacancy/120189015",
+    "salary_from": 200000,
+    "salary_to": 300000,
+    "description": "Владение C/<highlighttext>C++</highlighttext>. Знание архитектуры операционных систем семейств Windows. Владение техниками реверс-инжиниринга ПО. Наличие опыта роботы с дизассемблерами, в...",
+    "employer": "Реверслаб"
+  },
+  {
+    "title": "Developer C++",
+    "url": "https://hh.ru/vacancy/49922352",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знание C или другого языка программирования: в своей работе кроме <highlighttext>C++</highlighttext> мы используем Python, Swift, Kotlin, Java, Objective-C, C#. ",
+    "employer": "Актив"
+  },
+  {
+    "title": "Программист Андроид,Java,C++",
+    "url": "https://hh.ru/vacancy/119389151",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знание CMake, Maven, Gradle, Soong. Коммерческий опыт ЯП Java /<highlighttext>C++</highlighttext>/Pyhton.",
+    "employer": "Ред Софт"
+  },
+  {
+    "title": "Разработчик C/C++ Linux",
+    "url": "https://hh.ru/vacancy/120087550",
+    "salary_from": null,
+    "salary_to": 350000,
+    "description": "Опыт разработки под Linux от 3-х лет. Знание ООП. Знание C/<highlighttext>C++</highlighttext> (STL). Опыт разработки многопоточных приложений реального времени. ",
+    "employer": "Wanted"
+  },
+  {
+    "title": "Middle C++ Engineer",
+    "url": "https://hh.ru/vacancy/118975530",
+    "salary_from": 350000,
+    "salary_to": null,
+    "description": "Быстро пишете качественный и эффективный код на <highlighttext>С++</highlighttext> от 17 стандарта. Понимаете принципы работы ОС, железа (CPU, RAM, NIC), а...",
+    "employer": "Спектральные Технологии"
+  },
+  {
+    "title": "C++ Developer (Software-defined storage)",
+    "url": "https://hh.ru/vacancy/120324562",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Отличные знание C/<highlighttext>C++</highlighttext>. Понимание принципов работы ядра Linux (memory managment; network/file/block layer). Опыт разработки систем хранения(Database...",
+    "employer": "Cloud.ru"
+  },
+  {
+    "title": "Senior C++ Developer",
+    "url": "https://hh.ru/vacancy/119580292",
+    "salary_from": 2800,
+    "salary_to": 3800,
+    "description": "3+ years of experience in Embedded Linux development. Strong <highlighttext>C++</highlighttext> skills (<highlighttext>C++</highlighttext>17 preferred, <highlighttext>C++</highlighttext>11 is okay). ",
+    "employer": "Mad Devs"
+  },
+  {
+    "title": "Программист C/С++",
+    "url": "https://hh.ru/vacancy/118648281",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "C/<highlighttext>С++</highlighttext> на уверенном уровне. Принципы работы ОС Linux. Знание межпроцессного взаимодействия, синхронизации, многопоточности и др. на многоядерных системах. ",
+    "employer": "RDP.RU"
+  },
+  {
+    "title": "Программист С++/Qt",
+    "url": "https://hh.ru/vacancy/96412076",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт написания / отладки программного кода <highlighttext>C++</highlighttext>/Qt . Понимание основных принципов ООП и шаблонов проектирования. Знание bash/python. Желание и готовность...",
+    "employer": "НПО Колибри"
+  },
+  {
+    "title": "Младший программист C++ (Windows, UNIX)",
+    "url": "https://hh.ru/vacancy/119531456",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Высшее техническое образование. Знание <highlighttext>С++</highlighttext>, Python. Опыт разработки кроссплатформенных приложений (Windows, Unix). Чтение и поддержка существующего (ранее разработанного) кода. ",
+    "employer": "Диалог-транс"
+  },
+  {
+    "title": "Senior C++ Engineer",
+    "url": "https://hh.ru/vacancy/118551510",
+    "salary_from": 500000,
+    "salary_to": null,
+    "description": "Имеете 5+ лет опыта в разработке. Используете <highlighttext>С++</highlighttext> от 17 стандарта (мы работаем с <highlighttext>С++</highlighttext> 23) как свой основной...",
+    "employer": "Спектральные Технологии"
+  },
+  {
+    "title": "С/С++ Engineer",
+    "url": "https://hh.ru/vacancy/120279516",
+    "salary_from": 250000,
+    "salary_to": null,
+    "description": "Опыт Embedded разработки на С/<highlighttext>C++</highlighttext> - от 3 лет. Общее понимание архитектуры сетевого взаимодействия (IP, TCP, UDP, SCTP). ",
+    "employer": "Новые Телеком Решения (НТР)"
+  },
+  {
+    "title": "Junior C++ Developer / Младший разработчик С++",
+    "url": "https://hh.ru/vacancy/119445420",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Стек технологий. Backend: <highlighttext>C++</highlighttext> 20, STL, Boost, PostgreSQL, ArchLinux. Desktop: <highlighttext>C++</highlighttext> 17, QT Framework, собираем под Linux, Mac и Windows.",
+    "employer": "НТ Прогресс"
+  },
+  {
+    "title": "Разработчик C / C++",
+    "url": "https://hh.ru/vacancy/118782012",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "От 3-х лет опыта разработки на C или <highlighttext>C++</highlighttext>. Опыт работы с Nginx/Angie. Опыт работы с российскими ОС...",
+    "employer": "Вебмониторэкс"
+  },
+  {
+    "title": "C++/Go-разработчик",
+    "url": "https://hh.ru/vacancy/119795298",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт коммерческой разработки на <highlighttext>С++</highlighttext>. Опыт работы с распределенными и многопоточными приложениями. Умение строить и профилировать сложные SQL запросы, понимание...",
+    "employer": "Digital Clouds"
+  },
+  {
+    "title": "Junior разработчик С++ (computer vision, 3D)",
+    "url": "https://hh.ru/vacancy/117746667",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Высшее техническое образование в профильных вузах (также рассматриваем студентов последних курсов). Отличные знания С/<highlighttext>С++</highlighttext> (<highlighttext>С++</highlighttext>11-20), понимание принципов...",
+    "employer": "RangeVision"
+  },
+  {
+    "title": "Программист С++ (стажер)",
+    "url": "https://hh.ru/vacancy/116738715",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знания основ прикладной криптографии. Сильное знание математики. Уверенные навыки программирования (<highlighttext>С++</highlighttext>, JavaScript). Знакомство с СУБД (PostgreSQL, Caché, MySQL), с администрированием...",
+    "employer": "БелХард"
+  },
+  {
+    "title": "Разработчик на С++/С",
+    "url": "https://hh.ru/vacancy/120362140",
+    "salary_from": 300000,
+    "salary_to": 600000,
+    "description": "Знания в области низкоуровневого программирования С, <highlighttext>С++</highlighttext>, Delphi, Python и т.д.",
+    "employer": "IT-TRY"
+  },
+  {
+    "title": "Инженер-программист C++ (Junior )",
+    "url": "https://hh.ru/vacancy/118999992",
+    "salary_from": 80000,
+    "salary_to": null,
+    "description": "знание языка <highlighttext>C++</highlighttext>11/14/17/20. - знание Qt framework 6 + QML. - навыки использования системы контроля версий git. - ",
+    "employer": "СВИП-Айти"
+  },
+  {
+    "title": "Инженер-программист С++",
+    "url": "https://hh.ru/vacancy/119728765",
+    "salary_from": 50000,
+    "salary_to": null,
+    "description": "Знание языков программирования С/<highlighttext>С++</highlighttext>. Опыт разработки ПО под управлением ОС семейства Windows, Linux (Debian, Astra Linux). Опыт работы в...",
+    "employer": "ФГУП РНИИРС"
+  },
+  {
+    "title": "Программист C++",
+    "url": "https://hh.ru/vacancy/120113282",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт коммерческой разработки на <highlighttext>C++</highlighttext>. Хорошее знание <highlighttext>C++</highlighttext>11/<highlighttext>C++</highlighttext>14/<highlighttext>С++</highlighttext>17 и STL. Опыт использования Boost и Qt. ",
+    "employer": "ISS"
+  },
+  {
+    "title": "Инженер-программист C++",
+    "url": "https://hh.ru/vacancy/119817801",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Владение языками программирования C/<highlighttext>C++</highlighttext> и STL. Опыт разработки и администрирования под Linux. Знание стандартных инструментов разработки и отладки gcc...",
+    "employer": "СИГНАЛТЕК"
+  },
+  {
+    "title": "Middle С++ Developer",
+    "url": "https://hh.ru/vacancy/119552232",
+    "salary_from": null,
+    "salary_to": 200000,
+    "description": "Коммерческий опыт разработки на <highlighttext>С++</highlighttext> от 2-3 лет. Высшее техническое образование. Владение <highlighttext>С++</highlighttext> 17. Опыт работы с CMake. ",
+    "employer": "TQB Russia"
+  },
+  {
+    "title": "Программист С/С++",
+    "url": "https://hh.ru/vacancy/118961255",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знание С/<highlighttext>С++</highlighttext>. Знание архитектуры ОС Linux, QNX (ARM, х86) . Знание принципов межпроцессного взаимодействия, многопоточности, синхронизации, сетевого стека. ",
+    "employer": "ТРЭИ"
+  },
+  {
+    "title": "Программист С++, Qt (Индиком)",
+    "url": "https://hh.ru/vacancy/120227139",
+    "salary_from": 100000,
+    "salary_to": 120000,
+    "description": "Высшее образование в области разработки ПО или сопоставимый профессиональный опыт. Хорошее знание <highlighttext>С++</highlighttext>, Qt. Навыки работы с Postgres, PostgresPro. ",
+    "employer": "Завод Невский Ламинат"
+  },
+  {
+    "title": "Ведущий инженер-программист Qt/C++",
+    "url": "https://hh.ru/vacancy/120311758",
+    "salary_from": 200000,
+    "salary_to": null,
+    "description": "Уверенное владение языком <highlighttext>C++</highlighttext> (<highlighttext>C++</highlighttext>14 и выше). Опыт работы с Qt, включая Qt Widgets, модели и делегаты. ",
+    "employer": "БайтЭрг"
+  },
+  {
+    "title": "Разработчик С++",
+    "url": "https://hh.ru/vacancy/119575632",
+    "salary_from": 250000,
+    "salary_to": 400000,
+    "description": "Опыт от 3 лет в разработке на <highlighttext>C++</highlighttext> (STL, ООП). - Владение <highlighttext>C++</highlighttext>17 и выше (мы используем <highlighttext>C++</highlighttext>20). - ",
+    "employer": "Системы Управления"
+  },
+  {
+    "title": "Разработчик C++",
+    "url": "https://hh.ru/vacancy/120401970",
+    "salary_from": 250000,
+    "salary_to": null,
+    "description": "Опыт разработки системного ПО,включая сервисы и/или драйвера. Опыт построения собственных цепочек опыт работы с протоколоами sdp, rtp, rtcp...",
+    "employer": "Джой Дев"
+  },
+  {
+    "title": "Программист-разработчик С/С++",
+    "url": "https://hh.ru/vacancy/120017650",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Высшее техническое образование (возможно неоконченное высшее). Опыт разработки на <highlighttext>С++</highlighttext> (Qt). Понимание объектно-ориентированного подхода. Опыт работы с SQLite и...",
+    "employer": "DVM Systems"
+  },
+  {
+    "title": "Программист C++ (САПР)",
+    "url": "https://hh.ru/vacancy/70847247",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт разработки приложений на <highlighttext>C++</highlighttext>/QT или C#/WinForms или <highlighttext>C++</highlighttext>/MFC. Технический английский на уровне чтения документации. ",
+    "employer": "Нанософт"
+  },
+  {
+    "title": "Программист C/C++ (junior/middle)",
+    "url": "https://hh.ru/vacancy/119039090",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Высшее техническое образование, либо в том числе студент. Знание <highlighttext>С++</highlighttext>. Знание и умение применять на практике принципы ООП. ",
+    "employer": "СиСофт, (CSoft)"
+  },
+  {
+    "title": "Junior Программист С/С++",
+    "url": "https://hh.ru/vacancy/110422792",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Базовые знания языка С/<highlighttext>С++</highlighttext>. Работа с Visual Studio. Опыт работы в SVN/Git. Понимание работы интерфейсов RS 232-RS...",
+    "employer": "НПП Тепловодохран"
+  },
+  {
+    "title": "C++ Developer",
+    "url": "https://hh.ru/vacancy/120246335",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знаете, что такое DL, чем отличается от ML. Глубокое знание <highlighttext>C++</highlighttext> и Python. Опыт работы с многопоточным программированием и понимание...",
+    "employer": "СБЕР"
+  },
+  {
+    "title": "Программист С++",
+    "url": "https://hh.ru/vacancy/120275372",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знание <highlighttext>C++</highlighttext>14, Linux CLI (обязательно). Как преимущество: python, bash, git, deb, gdb, make, docker.",
+    "employer": "Ридан Трейд"
+  },
+  {
+    "title": "Разработчик С++/Qt",
+    "url": "https://hh.ru/vacancy/117094508",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Необходимы навыки <highlighttext>С++</highlighttext>: Знание <highlighttext>С++</highlighttext> не ниже 14, знание STL, Qt, Qt Creator, VS, стандартные алгоритмы и структуру данных, знание...",
+    "employer": "Инжиниринговый Центр Железнодорожного Транспорта"
+  },
+  {
+    "title": "Разработчик С++ (junior)",
+    "url": "https://hh.ru/vacancy/117181784",
+    "salary_from": 130000,
+    "salary_to": null,
+    "description": "Наличие высшего технического образования по направлению информационные системы, прикладная математика, бизнес информатика и т.д.. Знание <highlighttext>С++</highlighttext>11 и выше...",
+    "employer": "Уникальные Волоконные Приборы - Комплексные Системы"
+  },
+  {
+    "title": "Junior C++ Разработчик",
+    "url": "https://hh.ru/vacancy/119636482",
+    "salary_from": 75000,
+    "salary_to": 100000,
+    "description": "Как работать с потоками. - Основы объектно-ориентированного программирования (ООП) на <highlighttext>C++</highlighttext>. - Основную алгоритмическую базу. - Принципы Git flow. - Знание технологий, упомянутых...",
+    "employer": "VR-IT"
+  },
+  {
+    "title": "Инженер-программист С/С++ (ведущий инженер-программист С/С++)",
+    "url": "https://hh.ru/vacancy/120419217",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "1. Высшее техническое образование, профиль – радиотехника, радиоэлектроника, программирование. 2. Опыт работы в области радиоэлектроники, вычислительной техники и программирования от 3...",
+    "employer": "Научно-производственное объединение дальней радиолокации имени академика А.Л. Минца"
+  },
+  {
+    "title": "Разработчик C/C++",
+    "url": "https://hh.ru/vacancy/120228906",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт разработки под Linux от 1 года. Опыт разработки на С от 1 года. Понимание принципов системного программирования. ",
+    "employer": "Diasoft"
+  },
+  {
+    "title": "Программист C/C++",
+    "url": "https://hh.ru/vacancy/119546638",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Skills: UDS, 14229, C, <highlighttext>C++</highlighttext>, STM32, S32K, Cortex, Keil, MCU, GIT, SVN, autosar, SourceInsight, i2c...",
+    "employer": "Awara"
+  },
+  {
+    "title": "Frontend-разработчик (Qt/QML, C++)",
+    "url": "https://hh.ru/vacancy/120228613",
+    "salary_from": 80000,
+    "salary_to": null,
+    "description": "Опыт работы с Qt/QML и знание <highlighttext>C++</highlighttext> (Qt Widgets, Qt Core).  Умение работать с JSON, XML, WebSockets..  ",
+    "employer": "Нател"
+  },
+  {
+    "title": "Программист С++",
+    "url": "https://hh.ru/vacancy/108360166",
+    "salary_from": 120000,
+    "salary_to": 140000,
+    "description": "...на языке С/<highlighttext>С++</highlighttext> под UNIX подобные архитектуры - желательно. Знания ОС QNX, приветствуются. Языки программирования С\\<highlighttext>С++</highlighttext>. Знания фреймворка Qt...",
+    "employer": "НПО ПКРВ"
+  },
+  {
+    "title": "Разработчик C++/Qt",
+    "url": "https://hh.ru/vacancy/120270147",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт коммерческой кроссплатформенной разработки GUI на <highlighttext>C++</highlighttext> с использованием библиотек Qt от 5 лет. Опыт работы в команде.​​​​​. ",
+    "employer": "Интегрированные Разработки Для Моделирования"
+  },
+  {
+    "title": "Embedded Разработчик C++",
+    "url": "https://hh.ru/vacancy/120285488",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "5 лет разработки на <highlighttext>С++</highlighttext> в области Embedded/Пром.автоматики или смежной. Опыт работы с embedded устройствами/Пром.автоматикой, опыт разработки ПО...",
+    "employer": "Аурига"
+  },
+  {
+    "title": "Разработчик C/C++",
+    "url": "https://hh.ru/vacancy/118365069",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Отличное владение языком С. Умение понимать и дорабатывать чужой код на языке C. Опыт в области разработки модулей ядра Linux. ",
+    "employer": "ArtistHunt"
+  },
+  {
+    "title": "Программист С/С++",
+    "url": "https://hh.ru/vacancy/119942602",
+    "salary_from": 300000,
+    "salary_to": 350000,
+    "description": "...опыт разработки на С/<highlighttext>C++</highlighttext> от 3-х лет и развитые универсальные навыки разработки. - знание С/<highlighttext>С++</highlighttext>11/14/17. - ",
+    "employer": "Винтео"
+  },
+  {
+    "title": "Системный программист С/С++",
+    "url": "https://hh.ru/vacancy/120251448",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Уверенное знание C, опыт коммерческой разработки не менее 3х лет. Опыт разработки под GNU/Linux не менее 2х...",
+    "employer": "КСОР"
+  },
+  {
+    "title": "Инженер-программист C++/QT",
+    "url": "https://hh.ru/vacancy/120393256",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Высшее техническое образование. Опыт коммерческой разработки на <highlighttext>С++</highlighttext> от 3 лет. Понимание стека сетевых протоколов TCP/IP. Опыт работы с...",
+    "employer": "Специальный Технологический Центр (ООО СТЦ)"
+  },
+  {
+    "title": "Quantitative Developer/С++ Developer",
+    "url": "https://hh.ru/vacancy/118643174",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы на <highlighttext>С++</highlighttext> (17-20) от 2-х лет. Знание Linux или кроссплатформенной разработки. Хороший уровень алгоритмов. ",
+    "employer": "Hi, Rockits!"
+  },
+  {
+    "title": "С++ Developer (Unreal Engine Optimization)",
+    "url": "https://hh.ru/vacancy/119441409",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знание <highlighttext>С++</highlighttext> на хорошем уровне. Алгоритмическая подготовка. Опыт оптимизации и повышения производительности программных продуктов. Опыт работы с игровыми проектами. ",
+    "employer": "Saber Interactive"
+  },
+  {
+    "title": "Unreal Engine (C++ / Blueprints) Разработчик",
+    "url": "https://hh.ru/vacancy/120217927",
+    "salary_from": 100000,
+    "salary_to": null,
+    "description": "Заместитель директора игрового направления, в подчинении 45 человек (Опыт работы в компании от 18 месяцев).",
+    "employer": "Геомакс Финанс"
+  },
+  {
+    "title": "Инженер-программист С++",
+    "url": "https://hh.ru/vacancy/118990176",
+    "salary_from": 120000,
+    "salary_to": 250000,
+    "description": "Образование Высшее техническое: физика/математика/информатика. Уверенное знание английского языка. Уверенное знание <highlighttext>С++</highlighttext> (включая современные стандарты). Уверенное знание STL. ",
+    "employer": "Альянс-АйТи"
+  },
+  {
+    "title": "Middle C/С++ developer (1340)",
+    "url": "https://hh.ru/vacancy/120187262",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Наличие высшего технического образования. Опыт разработки на C/<highlighttext>C++</highlighttext> не менее 2 лет.​​​​​​.",
+    "employer": "ЦНИИАГ"
+  },
+  {
+    "title": "Разработчик C++",
+    "url": "https://hh.ru/vacancy/119498429",
+    "salary_from": 99000,
+    "salary_to": null,
+    "description": "Опыт разработки на языке <highlighttext>C++</highlighttext>. Понимание архитектуры и принципов Unix-систем. Понимание принципов ООП. Хорошее знание общепринятых паттернов проектирования. ",
+    "employer": "Базальт СПО"
+  },
+  {
+    "title": "Разработчик торговых стратегий С++",
+    "url": "https://hh.ru/vacancy/120392009",
+    "salary_from": null,
+    "salary_to": 8000,
+    "description": "Опыт в разработке от 2 лет. Опыт проведения экспериментов и запуска собственных автоматизированных алгоритмов в продакшн, готовность продемонстрировать показатели. ",
+    "employer": "Heaad"
+  },
+  {
+    "title": "Middle C++ разработчик",
+    "url": "https://hh.ru/vacancy/118132929",
+    "salary_from": 90000,
+    "salary_to": 200000,
+    "description": "Знания и опыт <highlighttext>С++</highlighttext>. Уверенное понимание базовых принципов работы сетей. Опыт с CMake. Опыт работы с Git, командная разработка. ",
+    "employer": "ФГАНУ НИИ Спецвузавтоматика"
+  },
+  {
+    "title": "С++ Software Developer",
+    "url": "https://hh.ru/vacancy/120350711",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Solid understanding of data structures, algorithms, and object-oriented programming in <highlighttext>C++</highlighttext>. Performs well in a remote/hybrid team with...",
+    "employer": "International quantitative trading company"
+  },
+  {
+    "title": "Программист C++",
+    "url": "https://hh.ru/vacancy/120117699",
+    "salary_from": 220000,
+    "salary_to": null,
+    "description": "Опыт разработки на <highlighttext>C++</highlighttext> от 1 года. Уверенное знание <highlighttext>C++</highlighttext>11, STL. Знание многопоточного программирования. Знания классических алгоритмов и структур...",
+    "employer": "ЭТМС"
+  },
+  {
+    "title": "Инженер-программист С/С++",
+    "url": "https://hh.ru/vacancy/120106778",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Владение языком программирования C, <highlighttext>C++</highlighttext>(стандарт 11 или 14). Системами сборки на основе autotools make/cmake. Навыки работы в ОС...",
+    "employer": "КИТ"
+  },
+  {
+    "title": "Разработчик C++",
+    "url": "https://hh.ru/vacancy/118620375",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Понимания процессов разработки ПО, знание git и gitflow. Коммерческий опыт разработки на <highlighttext>С++</highlighttext>17 (с STL/Boost) от 3х...",
+    "employer": "БАЗИС"
+  },
+  {
+    "title": "Программист C/C++",
+    "url": "https://hh.ru/vacancy/120321044",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Плюсом будут: знания в области электроники (PCAD/Altium). Конструкторские навыки (Solidworks), ведение проектов. Навыки: С/<highlighttext>С++</highlighttext>; Qt, Keil, IAR, пакет...",
+    "employer": "РэилМатик"
+  },
+  {
+    "title": "Senior UE Developer (С++)",
+    "url": "https://hh.ru/vacancy/120191513",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Хорошее знание и опыт программирования на <highlighttext>С++</highlighttext> от 4-х лет. Владение ООП и умение применять его на практике. ",
+    "employer": "Azur Games"
+  },
+  {
+    "title": "Программист С++",
+    "url": "https://hh.ru/vacancy/117720447",
+    "salary_from": 200000,
+    "salary_to": null,
+    "description": "Опыт программирования на <highlighttext>C++</highlighttext> (11 и 14) с использованием Qt (от версии 5.5). Опыт ООП при разработке кроссплатформенного ПО...",
+    "employer": "Авиационная и Морская Электроника, Научно-производственное предприятие"
+  },
+  {
+    "title": "Программист C++/C#",
+    "url": "https://hh.ru/vacancy/120012235",
+    "salary_from": 1200,
+    "salary_to": 1800,
+    "description": "Умение программировать на современном <highlighttext>C++</highlighttext>. Знание C#, понимание WPF. Плюсом будет умение разрабатывать многопоточные приложения. Плюсом будет знание Noesis GUI. ",
+    "employer": "Суравикин Артём Юрьевич"
+  },
+  {
+    "title": "Программист C++",
+    "url": "https://hh.ru/vacancy/119459756",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Чего мы ждём от опыта и навыков: Опыт разработки на языке <highlighttext>C++</highlighttext>, Qt (junior, middle; senior). Умение разобраться в чужой...",
+    "employer": "СИНЕКТА"
+  },
+  {
+    "title": "Разработчик C++",
+    "url": "https://hh.ru/vacancy/119488079",
+    "salary_from": 220000,
+    "salary_to": 300000,
+    "description": "Высшее техническое образование. Программирование на <highlighttext>С++</highlighttext> (11/14) с использованием QT5. Навыки работы в ОС Windows на уровне грамотного...",
+    "employer": "Даобит"
+  },
+  {
+    "title": "C#/.NET-разработчик",
+    "url": "https://hh.ru/vacancy/120430785",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы с ASP.NET Core. SQL - Oracle или PostgreSQL. RabbitMQ. Docker. Entity Framework. Знание HTTP REST-API. Git.",
+    "employer": "ЛАНИТ"
+  },
+  {
+    "title": "Стажер-программист ASP.NET (C#)",
+    "url": "https://hh.ru/vacancy/120418270",
+    "salary_from": 50000,
+    "salary_to": 150000,
+    "description": "Понимание архитектуры WEB-приложений. <highlighttext>C#</highlighttext>. Базовые знания HTML, CSS, JavaScript. Знание SQL на уровне написания join, хранимых процедур и что...",
+    "employer": "4А.Консалтинг"
+  },
+  {
+    "title": "C# разработчик",
+    "url": "https://hh.ru/vacancy/120427639",
+    "salary_from": null,
+    "salary_to": 190000,
+    "description": "хорошо и полно знает современный язык <highlighttext>C#</highlighttext> и представляет, как работает та или иная часть платформы .NET. - понимает, как работают...",
+    "employer": "Монополия"
+  },
+  {
+    "title": "C# разработчик (middle/senior)",
+    "url": "https://hh.ru/vacancy/120435075",
+    "salary_from": 200000,
+    "salary_to": 300000,
+    "description": "Желательно опыт проектирования программной архитектуры высоконагруженных проектов. Уверенные знания <highlighttext>С#</highlighttext> (.NET Framework, .NET Core). Уверенные знания и опыт работы как...",
+    "employer": "Manee"
+  },
+  {
+    "title": "Ищем С# разработчика",
+    "url": "https://hh.ru/vacancy/120436843",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Отличные знания <highlighttext>C#</highlighttext> и ASP.NET Core. Понимание архитектуры и функциональных возможностей баз данных на основе СУБД PostgreSQL. Опыт работы с...",
+    "employer": "Инвиторг"
+  },
+  {
+    "title": "Разработчик C#",
+    "url": "https://hh.ru/vacancy/120412048",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знание <highlighttext>C#</highlighttext>, ASP.NET Core - реальный опыт работы от 1 года. React. Threads, Tasks. SignalR. Знание основ ООП, языка SQL +...",
+    "employer": "PIX Robotics"
+  },
+  {
+    "title": "C# (.Net) Junior developer",
+    "url": "https://hh.ru/vacancy/120006110",
+    "salary_from": 75000,
+    "salary_to": null,
+    "description": "Алгоритмические знания и понимание структур данных на базовом уровне . Понимать основных операторов ветвления и циклы. Знать и понимать, как описать...",
+    "employer": "Штумпф"
+  },
+  {
+    "title": "Middle back-end. Net developer (C#)",
+    "url": "https://hh.ru/vacancy/119930228",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Отличные знания <highlighttext>C#</highlighttext>, .Net Core, REST. Знание SQL. Понимание принципов TDD, владение инструментами Unit-тестирования. Знание принципов ООП, шаблонов проектирования...",
+    "employer": "РЖД - Цифровые пассажирские решения"
+  },
+  {
+    "title": "C#/.NET-разработчик",
+    "url": "https://hh.ru/vacancy/120403233",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт коммерческой разработки под .NET не менее 2 лет. Отличное знание <highlighttext>C#</highlighttext> и .NET Core, TeamCity, Octopus, Docker, Kubernetes. ",
+    "employer": "Контакт"
+  },
+  {
+    "title": "Разработчик NET/C# (middle, Депозитарий)",
+    "url": "https://hh.ru/vacancy/120293643",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Использует в работе принципы ООП / SOLID / KISS. Уверенно разбирается в CLR, .Net Core, <highlighttext>C#</highlighttext>. Уверенно разбирается в ORM (EF Core). ",
+    "employer": "Компания БКС"
+  },
+  {
+    "title": "Ученик С#-разработчик",
+    "url": "https://hh.ru/vacancy/120394686",
+    "salary_from": 40230,
+    "salary_to": 75000,
+    "description": null,
+    "employer": "Дунайс"
+  },
+  {
+    "title": "Middle Unity (C#) Developer",
+    "url": "https://hh.ru/vacancy/120357067",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Уверенное знание <highlighttext>C#</highlighttext> (.Net). Знание ООП, алгоритмов и структур данных. Понимание архитектуры сетевого взаимодействия peer-to-peer, client-server. ",
+    "employer": "АКСЕЛБОЛТ КАЗАХСТАН"
+  },
+  {
+    "title": "Разработчик C#",
+    "url": "https://hh.ru/vacancy/120416055",
+    "salary_from": null,
+    "salary_to": 260000,
+    "description": "Опыт коммерческой разработки на <highlighttext>C#</highlighttext> от 3 лет. Знание Entity Framework Core и MS SQL. Опыт разработки на Vue. ",
+    "employer": "LIAN"
+  },
+  {
+    "title": "IT Программист C# / Разработчик Unity",
+    "url": "https://hh.ru/vacancy/120280456",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы с языком программирования <highlighttext>C#</highlighttext> не менее 1 года. Наличие представления о софте, используемом в игровой индустрии. ",
+    "employer": "ЛАЗЕРТАГ"
+  },
+  {
+    "title": "C#/.NET-разработчик",
+    "url": "https://hh.ru/vacancy/120381750",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Отлично знаешь <highlighttext>C#</highlighttext> и .NET 8. Уверенно владеешь следующими технологиями: ASP.NET, MVC, WEB.API, NHibernate / Entity Framework. Имеешь опыт разработки сервисов...",
+    "employer": "Группа компаний Аэроклуб"
+  },
+  {
+    "title": "Junior C# .Net Developer",
+    "url": "https://hh.ru/vacancy/119967858",
+    "salary_from": 100000,
+    "salary_to": null,
+    "description": "Опыт разработки на <highlighttext>С#</highlighttext> с использованием UWP и WPF. Знание MVVM. Понимание принципов ООП. Опыт работы в Visual Studio. ",
+    "employer": "InlyIT"
+  },
+  {
+    "title": "Middle .NET Developer (С#) (Backend)",
+    "url": "https://hh.ru/vacancy/119188955",
+    "salary_from": 280000,
+    "salary_to": 360000,
+    "description": "Уверенное знание современных версий <highlighttext>С#</highlighttext> и платформы NET на Linux. Опыт использования gRPC, понимание принципов работы HTTP 1.1, опыт...",
+    "employer": "Финтех"
+  },
+  {
+    "title": "C#/.NET-разработчик",
+    "url": "https://hh.ru/vacancy/120237011",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт разработки web-приложений на платформе .NET и языке <highlighttext>C#</highlighttext> не менее 2-х лет. Понимание принципов работы реляционных СУБД...",
+    "employer": "S8 Capital"
+  },
+  {
+    "title": "Разработчик С#",
+    "url": "https://hh.ru/vacancy/120281802",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт коммерческой разработки на <highlighttext>C#</highlighttext> от 6 лет на 6-7 проектах. Глубокое знание .NET6/8, ASP.NET Core/WebAPI...",
+    "employer": "Медиа Ком"
+  },
+  {
+    "title": "Программист - разработчик С#",
+    "url": "https://hh.ru/vacancy/120423205",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Уверенное знание <highlighttext>C#</highlighttext>. Опыт коммерческой разработки не менее 3-х лет. Владение MS SQL на уровне написания запросов (T-SQL). ",
+    "employer": "Московский ювелирный завод"
+  },
+  {
+    "title": "Junior Software Developer (C/C++/C#)",
+    "url": "https://hh.ru/vacancy/88002912",
+    "salary_from": 130000,
+    "salary_to": null,
+    "description": "Продвинутое владение хотя бы одним современным языком общего назначения (С/C++, <highlighttext>C#</highlighttext> или Java). Фундаментальные знания в области программирования (структуры...",
+    "employer": "ВСВН Лаб"
+  },
+  {
+    "title": "Разработчик C#",
+    "url": "https://hh.ru/vacancy/119241690",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Уверенное знание понимание ООП/паттернов Gof/принципов разработки/SOLID. <highlighttext>C#</highlighttext>/ASP/.Net. MS SQL. Профессиональные качества: Исполнительность и обязательность. ",
+    "employer": "Группа компаний Аэроклуб"
+  },
+  {
+    "title": "Программист С#",
+    "url": "https://hh.ru/vacancy/120044744",
+    "salary_from": 60000,
+    "salary_to": 100000,
+    "description": "Опыт работы с с Avalonia UI или WPF. <highlighttext>C#</highlighttext> - свежие проекты на .net core 5/6, часть старых на поддержке...",
+    "employer": "Интернет агентство ASAP"
+  },
+  {
+    "title": "Стажёр / Программист C# .NET",
+    "url": "https://hh.ru/vacancy/120418465",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Мы заинтересованы в программистах <highlighttext>C#</highlighttext>, .NET, имеющих навыки работы с SQL-базами данных и системой Git, а также библиотекой ComponentOne. ",
+    "employer": "Micros Development"
+  },
+  {
+    "title": "Разработчик C#",
+    "url": "https://hh.ru/vacancy/120236941",
+    "salary_from": null,
+    "salary_to": 400000,
+    "description": "Опыт в разработке от 3-х лет, высшее техническое или математическое образование. Уверенное знание <highlighttext>C#</highlighttext>, NET Core, асинхронного программирования, опыт...",
+    "employer": "SmartyHR"
+  },
+  {
+    "title": "Разработчик С# (.NET)",
+    "url": "https://hh.ru/vacancy/119853111",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт коммерческой разработки от 2 лет. Знание .Net: память, многопоточность, асинхронность, примитивы синхронизации, linq, generic, стандартные коллекции, наследование. ",
+    "employer": "Группа страховых компаний Югория"
+  },
+  {
+    "title": "Разработчик C#",
+    "url": "https://hh.ru/vacancy/120319721",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы на <highlighttext>C#</highlighttext> от 3 лет. Знание EF Core и MS SQL. Готовность работать в фулстек команде. ",
+    "employer": "Бэнкс Софт Системс"
+  },
+  {
+    "title": "C#/.NET-разработчик",
+    "url": "https://hh.ru/vacancy/118365071",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Хорошее знание <highlighttext>C#</highlighttext> и платформы .NET. Знание современных методологий разработки систем и паттернов проектирования. Опыт Web-разработки. Знание SQL, умение...",
+    "employer": "ArtistHunt"
+  },
+  {
+    "title": "Разработчик C#",
+    "url": "https://hh.ru/vacancy/120378465",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Имеете высшее образование. Знаете .Net core 7+ (web sdk), EF Core (code first, database first), SQL, Mediator, xUnit, Postman...",
+    "employer": "Кеменова Мария Алексеевна"
+  },
+  {
+    "title": ".NET / C# разработчик Junior",
+    "url": "https://hh.ru/vacancy/119027479",
+    "salary_from": 50000,
+    "salary_to": null,
+    "description": "Хорошее знание HTML/CSS. Язык <highlighttext>C#</highlighttext> на хорошем уровне (понимание принципов ООП, параллельного программирования, LINQ-запросов и пр.). ",
+    "employer": "Когорта-М"
+  },
+  {
+    "title": "C#/.NET-разработчик",
+    "url": "https://hh.ru/vacancy/120212137",
+    "salary_from": 60000,
+    "salary_to": null,
+    "description": "Навыки программирования на <highlighttext>C#</highlighttext> / VB.NET, знание технологии .NET. Внимательность к деталям, пунктуальность, ответственность. Знание базового английского языка.",
+    "employer": "ВинтаСофт"
+  },
+  {
+    "title": "Lead / Senior C# разработчик (infrastructure)",
+    "url": "https://hh.ru/vacancy/119506070",
+    "salary_from": 400000,
+    "salary_to": 550000,
+    "description": "Понимаете основные принципы мониторинга и инфраструктуры (Kubernetes, Docker).",
+    "employer": "MobileUp"
+  },
+  {
+    "title": "Senior Software Developer (С#/.NET/ASP.NET)",
+    "url": "https://hh.ru/vacancy/120418355",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Proficiency in <highlighttext>C#</highlighttext>, .NET 8, and ASP.NET Core 8.0. - Additional knowledge of Vue.js 3, JavaScript, HTML, and CSS is...",
+    "employer": "Virtoway"
+  },
+  {
+    "title": "Junior С# developer",
+    "url": "https://hh.ru/vacancy/120245877",
+    "salary_from": null,
+    "salary_to": 100000,
+    "description": "Высшее образование по техническим направлениям - обязательно. Знание <highlighttext>C#</highlighttext> в объеме, достаточном для быстрого выполнения задач. Знание SQL. Знание базовых алгоритмов...",
+    "employer": "Монополия"
+  },
+  {
+    "title": "Junior C# Unity developer",
+    "url": "https://hh.ru/vacancy/119418597",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Уверенная работа с <highlighttext>C#</highlighttext>: понимание ООП (объектно-ориентированного программирования), умение писать чистый, читаемый и оптимальный код. Опыт отладки (debugging): умение...",
+    "employer": "Apyrot"
+  },
+  {
+    "title": "Разработчик C#",
+    "url": "https://hh.ru/vacancy/120448623",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Asp.Net, <highlighttext>C#</highlighttext>, JavaScript, Visual Studio, HTML, CSS, MS SQL. Умение разбираться в чужом коде. Исполнительность, инициативность.",
+    "employer": "Компания Л1"
+  },
+  {
+    "title": "C# разработчик",
+    "url": "https://hh.ru/vacancy/120448698",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Умение разбираться в чужом коде, анализировать требования и работать по ними. Уверенное знание <highlighttext>C#</highlighttext> (NET Core & NET5/6/8...",
+    "employer": "ИЦ АЙ-ТЕКО"
+  },
+  {
+    "title": "C# разработчик",
+    "url": "https://hh.ru/vacancy/120288754",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт аналогичной работы от 1 года. Знание программирования на <highlighttext>C#</highlighttext> (ООП, циклы, условные операторы, методы, расширения). Основы .NET (понимать архитектуру...",
+    "employer": "Организация Агат"
+  },
+  {
+    "title": "Senior backend-разработчик (C#)",
+    "url": "https://hh.ru/vacancy/120296498",
+    "salary_from": 300000,
+    "salary_to": null,
+    "description": "Хорошая теоретическая подготовка (алгоритмы, структуры данных, паттерны проектирования). Знание .NET Core, <highlighttext>C#</highlighttext>, ASP.NET, SQL, брокеры сообщений (RabbitMq, Kafka). ",
+    "employer": "LEOMAX"
+  },
+  {
+    "title": "Ведущий разработчик C#",
+    "url": "https://hh.ru/vacancy/120436452",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт коммерческой разработки с использованием платформы .NET от 3-х лет. Хорошее знание <highlighttext>C#</highlighttext> и .NET Core, стандартной библиотеки и...",
+    "employer": "ИНФОРМЗАЩИТА"
+  },
+  {
+    "title": "Разработчик C# (Junior)",
+    "url": "https://hh.ru/vacancy/120272367",
+    "salary_from": 70000,
+    "salary_to": null,
+    "description": "Понимание принципов ООП. Знание языка программирования <highlighttext>C#</highlighttext>. Знания принципа работы с ASP.NET MVC и WebApi. Понимание работы с реляционными базами...",
+    "employer": "Софт"
+  },
+  {
+    "title": "Backend developer (C#, .Net)",
+    "url": "https://hh.ru/vacancy/119585764",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Имеешь высшее техническое образование. Имеешь опыт работы с .Net Core 3+ от 3 лет. Знаешь асинхронное программирование (async/await). ",
+    "employer": "JSA Group"
+  },
+  {
+    "title": "Программист C#",
+    "url": "https://hh.ru/vacancy/120281997",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы в сфере разработки от 1 года. Уверенные знания Unity и <highlighttext>C#</highlighttext>, ООП. Понимание паттернов проектирования. Опыт работы с...",
+    "employer": "Компания ЭлеСи, Томск"
+  },
+  {
+    "title": "Middle ASP NET CORE, C# разработчик",
+    "url": "https://hh.ru/vacancy/120158018",
+    "salary_from": 800000,
+    "salary_to": 1000000,
+    "description": "Asp Net Core и EF Core, Dapper. Опыт разработки на Asp Net Core в коммерческих проектах на релевантном стеке. ",
+    "employer": "A1 CAPITAL"
+  },
+  {
+    "title": "C# (.Net) developer (middle)",
+    "url": "https://hh.ru/vacancy/119627555",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Понимание работы с асинхронными вызовами async/await. .NET 6.0 и выше (<highlighttext>C#</highlighttext>). PostgreSQL. Redis. Elastic. RabbitMQ. GitLab CI/CD. ",
+    "employer": "Medlinx"
+  },
+  {
+    "title": "C#/.NET-разработчик",
+    "url": "https://hh.ru/vacancy/120404448",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы от 3х лет. Владение <highlighttext>C#</highlighttext> (.Net, .Net Core, WebAPI). Опыт проектирования и реализации web-сервисов (REST, Swagger...",
+    "employer": "Bell Integrator"
+  },
+  {
+    "title": "Backend C# ASP.NET developer (Middle+/Senior)",
+    "url": "https://hh.ru/vacancy/112165486",
+    "salary_from": 250000,
+    "salary_to": null,
+    "description": "Уверенный опыт с ASP.NET Core (от 3 лет). Хорошее понимание CLR и принципов работы .NET. Знание технологий: AWS S3...",
+    "employer": "Signal"
+  },
+  {
+    "title": "Разработчик C# (Middle)",
+    "url": "https://hh.ru/vacancy/120370024",
+    "salary_from": 150000,
+    "salary_to": null,
+    "description": "Умение анализировать требования и разбираться в потребностях Заказчика. Опыт проектирования приложений/информационных систем. Знания алгоритмизации, ООП и понимание основных принципов...",
+    "employer": "СТАРКОВ Групп"
+  },
+  {
+    "title": "C#/.NET-разработчик",
+    "url": "https://hh.ru/vacancy/119220967",
+    "salary_from": 270000,
+    "salary_to": 330000,
+    "description": "Опыт разработки на <highlighttext>C#</highlighttext> от 3-х лет. Знание принципов объектно-ориентированного программирования. Знание основных паттернов проектирования. Уверенные знания SQL. ",
+    "employer": "HR Prime"
+  },
+  {
+    "title": "Middle C# developer",
+    "url": "https://hh.ru/vacancy/120340782",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Глубокие знания платформы .Net. Опыт работы с <highlighttext>C#</highlighttext>, EF Core, Dapper, Asp.Net. Опыт работы с реляционными базами данных(PostrgeSQL, MSSQL). ",
+    "employer": "«ФИНАНСОВЫЙ ХОЛДИНГ «РЕСПУБЛИКА»"
+  },
+  {
+    "title": "C#/.NET-разработчик, Junior",
+    "url": "https://hh.ru/vacancy/120045711",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы коммерческой разработки web- приложений на .NET от 1 года. Опыт разработки XML. Базовые знания архитектурных принципов построения приложений. ",
+    "employer": "ГБУ Мосстройинформ"
+  },
+  {
+    "title": "С# разработчик",
+    "url": "https://hh.ru/vacancy/117879096",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "2+ коммерческого опыта работы с <highlighttext>C#</highlighttext> и .NET Framework/.NET Core. Понимание принципов ООП и шаблонов проектирования. ",
+    "employer": "WILIX"
+  },
+  {
+    "title": "Junior C# программист",
+    "url": "https://hh.ru/vacancy/120091276",
+    "salary_from": 50000,
+    "salary_to": null,
+    "description": "Базовые знания <highlighttext>C#</highlighttext>, My SQL. Огромное желание учиться.",
+    "employer": "Комплексная Интеграция"
+  },
+  {
+    "title": "Программист C# + SQL",
+    "url": "https://hh.ru/vacancy/118719211",
+    "salary_from": 275000,
+    "salary_to": 375000,
+    "description": "Знание принципов объектно-ориентированного программирования. Знание <highlighttext>C#</highlighttext> и библиотек .NET. Базовое владение SQL. Опыт работы с реляционными СУБД. ",
+    "employer": "Никс"
+  },
+  {
+    "title": "Разработчик C#",
+    "url": "https://hh.ru/vacancy/120268873",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Умение разбираться в чужом коде, анализировать требования и работать по ними. Уверенное знание <highlighttext>C#</highlighttext> (NET Core & NET5/6/8...",
+    "employer": "Современные Фонды Недвижимости"
+  },
+  {
+    "title": "Программист C# (middle developer)",
+    "url": "https://hh.ru/vacancy/120425632",
+    "salary_from": 100000,
+    "salary_to": 150000,
+    "description": "Инженерный подход к решаемым задачам, умение читать и анализировать код на языке <highlighttext>C#</highlighttext>, ООП. Платформа: .Net Framework, <highlighttext>C#</highlighttext>. ",
+    "employer": "ОНИТ"
+  },
+  {
+    "title": "C# (.net) developer",
+    "url": "https://hh.ru/vacancy/118105559",
+    "salary_from": 120000,
+    "salary_to": 150000,
+    "description": "Опыт разработки на <highlighttext>C#</highlighttext> от 1 года. Большой плюс — знание/опыт работы на базе .net MVC (framework или core не...",
+    "employer": "СКБ Техно"
+  },
+  {
+    "title": "Разработчик C#",
+    "url": "https://hh.ru/vacancy/120229444",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы с <highlighttext>C#</highlighttext> и ASP.NET Core. Опыт с реляционными базами данных. Знание принципов ООП, SOLID и паттернов проектирования. ",
+    "employer": "UDV Group"
+  },
+  {
+    "title": "Программист C# (WPF/Unity)",
+    "url": "https://hh.ru/vacancy/119219282",
+    "salary_from": 60000,
+    "salary_to": 70000,
+    "description": "...и в том числе студентов последних курсов профильных ВУЗов). Знание <highlighttext>C#</highlighttext>. Понимание принципов ООП. Уверенное владение Unity. Стек технологий: NET...",
+    "employer": "ПКФ БК-студия"
+  },
+  {
+    "title": "C# разработчик",
+    "url": "https://hh.ru/vacancy/120280215",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт коммерческой разработки на <highlighttext>C#</highlighttext> от 2 лет. Опыт работы с сервис-ориентированной архитектурой. Опыт работы с современными реляционными СУБД...",
+    "employer": "Tennisi"
+  },
+  {
+    "title": "C# Unity Developer",
+    "url": "https://hh.ru/vacancy/120238228",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы с языком программирования <highlighttext>C#</highlighttext> на уровне не ниже Middle. Глубокие знания Unity и опыт разработки в этом движке. ",
+    "employer": "ЭДС"
+  },
+  {
+    "title": "Middle C# developer",
+    "url": "https://hh.ru/vacancy/120268025",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "<highlighttext>C#</highlighttext> (.NET 8-9), MS SQL / PostgreSQL. Web API, ASP.NET MVC, Avalonia. Android, Linux. GitLab, CI/CD. Уверенное владение <highlighttext>C#</highlighttext>...",
+    "employer": "ПромИТ"
+  },
+  {
+    "title": "C#/.NET-разработчик",
+    "url": "https://hh.ru/vacancy/120156639",
+    "salary_from": 60000,
+    "salary_to": 120000,
+    "description": "Знание <highlighttext>С#</highlighttext> .NET, WPF, Avalonia, ООП, Git. Опыт в разработке графических приложений.",
+    "employer": "Курсир"
+  },
+  {
+    "title": "Senior С#/Unity в геймдев",
+    "url": "https://hh.ru/vacancy/120311557",
+    "salary_from": 2000,
+    "salary_to": 4000,
+    "description": "Отличное знание <highlighttext>C#</highlighttext> и Unity. Уверенные пользователь Git. Опыт управления командой программистов.",
+    "employer": "Маналот Геймз"
+  },
+  {
+    "title": "C#/.NET-разработчик",
+    "url": "https://hh.ru/vacancy/119491932",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы от 2 лет с <highlighttext>C#</highlighttext> и .NET Framework (.NET Core 8.0, EF Core). Глубокое понимание ООП и...",
+    "employer": "Аврора"
+  },
+  {
+    "title": "Разработчик C# (.NET)",
+    "url": "https://hh.ru/vacancy/115122204",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Отличное знание <highlighttext>C#</highlighttext>. Опыт коммерческой разработки на .NET Core от 2 лет. Опыт коммерческой разработки на ASP.NET. Оконченное высшее образование...",
+    "employer": "Экософт"
+  },
+  {
+    "title": "C#/.NET-разработчик",
+    "url": "https://hh.ru/vacancy/120074597",
+    "salary_from": 230000,
+    "salary_to": 270000,
+    "description": "DocsVision в эксплуатацию (масштабные проекты, более 3000 пользователей). Отличное знание <highlighttext>C#</highlighttext>, React, TypeScript, платформы .Net. Отличное знание PostgreSQL, Redis, ElasticSearch...",
+    "employer": "IT-Implant"
+  },
+  {
+    "title": "C#/.NET-разработчик",
+    "url": "https://hh.ru/vacancy/120279256",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Отличное знание <highlighttext>C#</highlighttext>. Опыт работы от 4 лет со стеком технологий: .Net Core, .Net Framework, MS SQL Server (T-SQL...",
+    "employer": "Банк ПСБ"
+  },
+  {
+    "title": "C#/.NET-разработчик",
+    "url": "https://hh.ru/vacancy/119826333",
+    "salary_from": 230000,
+    "salary_to": null,
+    "description": "Работы в роли бэкенд на .Net core более 3 лет. <highlighttext>C#</highlighttext> 8-10 версии. Знание архитектур MSA, SOA и опыт...",
+    "employer": "АБП"
+  },
+  {
+    "title": "Backend developer (.NET, C#)",
+    "url": "https://hh.ru/vacancy/119637810",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Любишь писать на <highlighttext>c#</highlighttext>, используешь net core.",
+    "employer": "СБЕР"
+  },
+  {
+    "title": "Программист MS SQL/С# ведущий",
+    "url": "https://hh.ru/vacancy/120426174",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "RabbitMQ. Умение работать с цифровыми подписями, в частности взаимодействие на <highlighttext>C#</highlighttext> с КриптоПро, работа с сертификатами и т.д. ",
+    "employer": "Major Auto (Мэйджор Авто)"
+  },
+  {
+    "title": "C#/.NET-разработчик",
+    "url": "https://hh.ru/vacancy/119835177",
+    "salary_from": 200000,
+    "salary_to": 300000,
+    "description": "Работа в роли бэкенд на .Net core от 3 лет. <highlighttext>C#</highlighttext> 10+ версии. Знание архитектур MSA, SOA и опыт...",
+    "employer": "АРТ-Финтех"
+  },
+  {
+    "title": "C#/.NET-разработчик",
+    "url": "https://hh.ru/vacancy/117819001",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт коммерческой веб-разработки не менее 2 лет. <highlighttext>С#</highlighttext>, .NET, Entity Framework. Опыт работы с нереляционными базами данных. ",
+    "employer": "Nordcore (ex. Swift Technical)"
+  },
+  {
+    "title": "C#/.NET Junior Developer",
+    "url": "https://hh.ru/vacancy/119667928",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "<highlighttext>C#</highlighttext>/.NET. ASP.NET Core, EF Core на базовом уровне. HTML 5, CSS 3, JS на базовом уровне. SQL на базовом...",
+    "employer": "GrowApp Solutions"
+  },
+  {
+    "title": "Разработчик C# junior",
+    "url": "https://hh.ru/vacancy/119635312",
+    "salary_from": 15000,
+    "salary_to": 60000,
+    "description": "Хорошие знания <highlighttext>C#</highlighttext>. Практические навыки работы с .Net Framework, .Net Core, Asp.Net MVC, Swagger. Понимание или опыт работы с реляционными...",
+    "employer": "AfcStudio"
+  },
+  {
+    "title": "Разработчик C#, Склад",
+    "url": "https://hh.ru/vacancy/118624222",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Хорошее знание <highlighttext>C#</highlighttext> (.NetCore) и опыт работы с ним от 1-го года. Опыт использования реляционных баз данных, хорошее...",
+    "employer": "Ozon"
+  },
+  {
+    "title": "C#/.NET-разработчик",
+    "url": "https://hh.ru/vacancy/119234208",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт разработки на .Net от 3 лет. Опыт работы с микросервисной архитектурой. Опыт работы с реляционными базами данных: умеете проектировать...",
+    "employer": "VIVA Group"
+  },
+  {
+    "title": "Младший программист C#",
+    "url": "https://hh.ru/vacancy/119616012",
+    "salary_from": 44000,
+    "salary_to": 55000,
+    "description": "Высшее или средне-специальное техническое образование. Готовы рассмотреть выпускников. Уверенные базовые знания <highlighttext>C#</highlighttext>. Понимание основ ООП. Умение и желание разбираться...",
+    "employer": "ЕРЦ"
+  },
+  {
+    "title": "Senior backend developer (C# .NET 8)",
+    "url": "https://hh.ru/vacancy/120083358",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Способность и готовность принимать решения и нести ответственность за техническую реализацию задач, опыт решения сложных технических задач в высоконагруженных системах. ",
+    "employer": "ProSpace"
+  },
+  {
+    "title": "Senior C#/Unity Developer (Midcore)",
+    "url": "https://hh.ru/vacancy/120249011",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "...<highlighttext>C#</highlighttext> и Unity. Глубокое понимание многопоточности как для чистого <highlighttext>C#</highlighttext>, так и в связке <highlighttext>C#</highlighttext>/Unity. Понимание специфики поддержки <highlighttext>C#</highlighttext>...",
+    "employer": "Azur Games"
+  },
+  {
+    "title": "C# Разработчик (Middle c# Developer)",
+    "url": "https://hh.ru/vacancy/120233338",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Четкого понимания принципов ООП. Желания учиться, развиваться, самокритичное отношение. Знание стека .Net (одной или нескольких технологий: WPF, WinForms, ASP .Net...",
+    "employer": "Лайм-АйТи"
+  },
+  {
+    "title": "Разработчик C#",
+    "url": "https://hh.ru/vacancy/118047140",
+    "salary_from": 200000,
+    "salary_to": 200000,
+    "description": "знание оперативного учета, плана счетов бухгалтерского учета. - обмен данными с внешними базами (xml, json). - знание работы с SQL таблицами.​​​​​​​.",
+    "employer": "Группа компаний СКС"
+  },
+  {
+    "title": "C#/.NET-разработчик",
+    "url": "https://hh.ru/vacancy/119778241",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "...2х лет.Глубокое понимание особенностей и возможностей .NET Framework и <highlighttext>C#</highlighttext>. Знание и опыт использования DI-контейнеров. Опыт внедрения зависимостей...",
+    "employer": "Цифролаб"
+  },
+  {
+    "title": "С# Developer",
+    "url": "https://hh.ru/vacancy/120240104",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Имеете опыт работы с <highlighttext>C#</highlighttext>, .NET. Работали с PostgreSQL или MS SQL Server. Проектировали WebServices или REST API. ",
+    "employer": "Смартек"
+  },
+  {
+    "title": "C#/.NET-разработчик",
+    "url": "https://hh.ru/vacancy/119777925",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Уверенное знание .NET, <highlighttext>С#</highlighttext>. Понимание работы с ASP.NET Core, MVC. Знание EF Core. Понимание работы с MS SQL, PostgreSQL. ",
+    "employer": "Университет Иннополис"
+  },
+  {
+    "title": "C# .NET разработчик",
+    "url": "https://hh.ru/vacancy/120449519",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Уверенное владение <highlighttext>C#</highlighttext> и .NET. Практический опыт создания и поддержки десктопных приложений (WinForms) с акцентом на высокую производительность и оптимизацию...",
+    "employer": "Butterfly Effect"
+  },
+  {
+    "title": ".NET разработчик (C#)",
+    "url": "https://hh.ru/vacancy/110810410",
+    "salary_from": null,
+    "salary_to": 200000,
+    "description": "Знание языка <highlighttext>C#</highlighttext> и серверной технологии ASP.NET Core. Нахождение на территории РФ, часовой пояс МСК+/- 2 часа. Опыт работы с...",
+    "employer": "Russian Robotics"
+  },
+  {
+    "title": "Middle Unity C# Developer (Hybrid Casual)",
+    "url": "https://hh.ru/vacancy/120032361",
+    "salary_from": 50000,
+    "salary_to": 70000,
+    "description": "Опыт работы с Unity3D 1-3 года. Опыт коммерческой разработки ГК под мобильные платформы от 1 года. ",
+    "employer": "Ollie Games"
+  },
+  {
+    "title": "C# разработчик (ELMA3)",
+    "url": "https://hh.ru/vacancy/120368857",
+    "salary_from": 90000,
+    "salary_to": null,
+    "description": "Умение программировать на языке <highlighttext>C#</highlighttext>. Знание платформы .NET на среднем уровне. Понимание принципов ООП. Опыт работы с PostgreSQL. ",
+    "employer": "ТЕКО, Научно-производственная компания"
+  },
+  {
+    "title": "C#/.NET-разработчик",
+    "url": "https://hh.ru/vacancy/119705626",
+    "salary_from": 240000,
+    "salary_to": 290000,
+    "description": "Опыт работы <highlighttext>C#</highlighttext> от 6 лет. Опыт разработки кроссплатформенных приложений. Опыт реализации сложных выгрузок в Excel с использованием OpenXML/ ClosedXML. ",
+    "employer": "Бриф"
+  },
+  {
+    "title": "C# разработчик",
+    "url": "https://hh.ru/vacancy/117079472",
+    "salary_from": null,
+    "salary_to": 170000,
+    "description": "Понимание виртуализации (Docker, Kubernetes) и микросервисной архитектуры. Опыт работы с Redis/Kafka.",
+    "employer": "Kvando Technologies"
+  },
+  {
+    "title": "Middle C# разработчик",
+    "url": "https://hh.ru/vacancy/118976601",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт разработки десктопных приложений от 1 года (WPF, обязательно). Уверенные знания <highlighttext>C#</highlighttext> и .NET Framework/Core. Понимание принципов работы ООП...",
+    "employer": "Спортдата"
+  },
+  {
+    "title": "Middle C# Developer",
+    "url": "https://hh.ru/vacancy/119846727",
+    "salary_from": 160000,
+    "salary_to": 200000,
+    "description": "Опыт работы не менее 3х лет. Уверенное владение Git. Уверенное владение <highlighttext>C#</highlighttext>: понимание основных структур данных, механизмов наследования, опыт...",
+    "employer": "Фабрика Решений"
+  },
+  {
+    "title": "Программист-разработчик C# (стажер) работа в Сочи",
+    "url": "https://hh.ru/vacancy/119548594",
+    "salary_from": 50000,
+    "salary_to": 70000,
+    "description": "Высшее профильное образование. Базовые знания языка программирования <highlighttext>С#</highlighttext>. Понимание основ языка запросов на SQL. Умение создавать по заданному шаблону интерфейсы...",
+    "employer": "SandSoft"
+  },
+  {
+    "title": "C#/.NET-разработчик",
+    "url": "https://hh.ru/vacancy/119745060",
+    "salary_from": 70000,
+    "salary_to": 165000,
+    "description": "Уверенное владение <highlighttext>C#</highlighttext>. Знание ООП, теории алгоритмов, структур данных. Понимание SOLID, владение основными паттернами разработки. Знание теории и опыт решения...",
+    "employer": "Парусник-Белгород, ГК"
+  },
+  {
+    "title": "Разработчик С#",
+    "url": "https://hh.ru/vacancy/117697724",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Уверенные знания <highlighttext>C#</highlighttext> и платформы .NET Core. Уверенные знания промышленных СУБД MS SQL и PostgreSQL. Знание, понимание и умение применять...",
+    "employer": "ИСЕРВ"
+  },
+  {
+    "title": "Программист С#",
+    "url": "https://hh.ru/vacancy/119853165",
+    "salary_from": 110000,
+    "salary_to": null,
+    "description": "Приветствуется высшее образование. - Знание и применение <highlighttext>С#</highlighttext>, .NET, WPF и/или UWP, ООП, MVVM, Visual Studio.",
+    "employer": "Имлайт"
+  },
+  {
+    "title": "C#/.NET-разработчик",
+    "url": "https://hh.ru/vacancy/119758576",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт коммерческой разработки на <highlighttext>C#</highlighttext> от 3-х лет. Опыт использования ORM (Entity Framework, Dapper), ADO.NET. Уверенные знания принципов ООП...",
+    "employer": "Иксия"
+  },
+  {
+    "title": "Программист С# (БЦ Капитал)",
+    "url": "https://hh.ru/vacancy/119947348",
+    "salary_from": 100000,
+    "salary_to": 150000,
+    "description": "Стек: <highlighttext>C#</highlighttext>, ASP.NET MVC, MS SQL Server.Core, EF Core, Git. Если вы: Имеете опыт в аналогичной должности. С аналитическим складом...",
+    "employer": "STAR TEAM"
+  },
+  {
+    "title": "Разработчик С# /.NET",
+    "url": "https://hh.ru/vacancy/119629443",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт коммерческой разработки от 1 года. Знание Net: память - базовое представление, асинхронность, linq, generic, стандартные коллекции, наследование. Знание алгоритмов: список...",
+    "employer": "Группа страховых компаний Югория"
+  },
+  {
+    "title": "Middle Python разработчик",
+    "url": "https://hh.ru/vacancy/120496198",
+    "salary_from": 120000,
+    "salary_to": 150000,
+    "description": "Проектировать и выстраивать архитектуру сервиса и микросервисов. Flask / FastAPI. MySQL. Aiogram (Telegram-боты). Опыт написания парсеров. Front-end (HTML, CSS...",
+    "employer": "RAZRABOT"
+  },
+  {
+    "title": "Junior Python developer",
+    "url": "https://hh.ru/vacancy/119870879",
+    "salary_from": 400,
+    "salary_to": 800,
+    "description": "Желательно высшее техническое образование (минимум 2 курса ) (чтобы уметь общаться и решать возникающие вопросы). Немного знать HTML/Bootstrap и немного...",
+    "employer": "ДиджиталСП"
+  },
+  {
+    "title": "Middle Python Developer",
+    "url": "https://hh.ru/vacancy/120646799",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знакомство с kafka. Опыт работы с изображениями в <highlighttext>python</highlighttext> Работа с ML сервисами. Опыт взаимодействия с библиотеĸами PyTorch, TensorFlow. ",
+    "employer": "Платформа Третье Мнение"
+  },
+  {
+    "title": "Machine Learning Engineer (Инженер по ML)",
+    "url": "https://hh.ru/vacancy/119952524",
+    "salary_from": 500000,
+    "salary_to": 1000000,
+    "description": "Умение строить CI/CD-пайплайны для <highlighttext>ML</highlighttext>-продуктов. Владение Python на уровне продакшн-кода. ⸻. Будет преимуществом. Опыт работы с большими...",
+    "employer": "Жан мен Тән"
+  },
+  {
+    "title": "ML Engineer",
+    "url": "https://hh.ru/vacancy/120522631",
+    "salary_from": 350000,
+    "salary_to": 700000,
+    "description": "Exposure to quantization and model compression techniques. Experience with deploying <highlighttext>ML</highlighttext> models using APIs or serving frameworks (e.g., FastAPI...",
+    "employer": "GuardinAI, Inc"
+  },
+  {
+    "title": "ML / CV Разработчик (Senior)",
+    "url": "https://hh.ru/vacancy/120462553",
+    "salary_from": 300000,
+    "salary_to": null,
+    "description": "Уверенное владение Python и основными <highlighttext>ML</highlighttext>/DL/CV библиотеками. Знание базовых алгоритмов кластеризации и метрик. Опыт работы с FastAPI, TensorFlow...",
+    "employer": "Про.Потолок"
+  },
+  {
+    "title": "ML Engineer / Data Scientist",
+    "url": "https://hh.ru/vacancy/120640487",
+    "salary_from": 250000,
+    "salary_to": 350000,
+    "description": "Знание С++; Qt; Pyton. Знание библиотек и фреймворков CV и DL: OpenCV, TensorFlow/PyTorсh, YOLO, MMDetection, Detectron2. ",
+    "employer": "Heaad"
+  },
+  {
+    "title": "Инженер по оптимизации ИИ-моделей и разработке промптов (ML системный аналитик)",
+    "url": "https://hh.ru/vacancy/120474704",
+    "salary_from": 250000,
+    "salary_to": 500000,
+    "description": "Высшее образование в области компьютерных наук, математики, искусственного интеллекта или смежных дисциплин. Опыт работы с моделями ИИ (например, GPT, LLaMA...",
+    "employer": "АКСИС ПРО"
+  },
+  {
+    "title": "AI/ML - инженер",
+    "url": "https://hh.ru/vacancy/120546180",
+    "salary_from": 200000,
+    "salary_to": 250000,
+    "description": "Коммерческий опыт работы в области AI/<highlighttext>ML</highlighttext> от 2 лет. Понимание архитектур и трендов в нейросетях (GPT, LLaMA, Claude, open...",
+    "employer": "Васюков Владимир Владимирович"
+  },
+  {
+    "title": "ML-инженер",
+    "url": "https://hh.ru/vacancy/108788746",
+    "salary_from": 200000,
+    "salary_to": null,
+    "description": "Опыт работы с современными DL-фреймворками (Pytorch, Tensorflow и пр.). Выпуск и применение обученных моделей в продакшене. Знание Python. ",
+    "employer": "Специальный Технологический Центр (ООО СТЦ)"
+  },
+  {
+    "title": "AI / ML developer / ML-инженер",
+    "url": "https://hh.ru/vacancy/120322197",
+    "salary_from": 180000,
+    "salary_to": 250000,
+    "description": "GitHub или ссылку на проект с кастомными <highlighttext>ML</highlighttext>-решениями (желательно — в области генерации изображений). Пару строк об опыте с flux...",
+    "employer": "Вайлд-Групп"
+  },
+  {
+    "title": "ML Разработчик",
+    "url": "https://hh.ru/vacancy/120494255",
+    "salary_from": 170000,
+    "salary_to": 260000,
+    "description": "Уверенно владеете Python и базовыми библиотеками (pandas, numpy, scikit-learn и др.). Имеете опыт работы с табличными (структурированными) данными и...",
+    "employer": "SolarAI"
+  },
+  {
+    "title": "Junior ML Разработчик / Аналитик Данных",
+    "url": "https://hh.ru/vacancy/120494149",
+    "salary_from": 140000,
+    "salary_to": 190000,
+    "description": "Пользовались классическими <highlighttext>ML</highlighttext>-библиотеками (scikit-learn, lightgbm, catboost и др.). Имеете представление о работе в Linux. Участие в <highlighttext>ML</highlighttext>-соревнованиях. ",
+    "employer": "SolarAI"
+  },
+  {
+    "title": "ML Engineer / Инженер машинного обучения",
+    "url": "https://hh.ru/vacancy/116174143",
+    "salary_from": 130000,
+    "salary_to": null,
+    "description": "Профильное образование по IT специальностям. Понимание принципов работы с моделями машинного обучения и их применения в реальных проектах. ",
+    "employer": "Радиофид"
+  },
+  {
+    "title": "Python-разработчик (ML)",
+    "url": "https://hh.ru/vacancy/118566328",
+    "salary_from": 120000,
+    "salary_to": 175000,
+    "description": "Опыт работы с NoSQL БД (векторные БД, Redis). Желание развиваться в <highlighttext>ML</highlighttext> будет большим плюсом. Английский на уровне чтения технической...",
+    "employer": "ФГАНУ НИИ Спецвузавтоматика"
+  },
+  {
+    "title": "ML-инженер",
+    "url": "https://hh.ru/vacancy/119802809",
+    "salary_from": 120000,
+    "salary_to": null,
+    "description": "Высшее образование в области математики, информатики, статистики или смежных дисциплин. Опыт работы с алгоритмами машинного обучения и глубокого обучения. ",
+    "employer": "ДЕМЛАБС"
+  },
+  {
+    "title": "ML Разработчик",
+    "url": "https://hh.ru/vacancy/119829493",
+    "salary_from": 100000,
+    "salary_to": null,
+    "description": "Опыт работы от 1 года в <highlighttext>ML</highlighttext>/AI разработке (можно стажировки, pet-проекты, но реальные). Уверенное знание Python и библиотек...",
+    "employer": "Solo"
+  },
+  {
+    "title": "ML-инженер (стажер)",
+    "url": "https://hh.ru/vacancy/120297203",
+    "salary_from": 32500,
+    "salary_to": 65000,
+    "description": "...Pandas, PyTorch/TensorFlow), SQL, fine-tuning LLM, основы машинного обучения. Дополнительно: Git, Airflow, Mlflow, Pyspark, понимание принципов масштабирования <highlighttext>ML</highlighttext>-сервисов.",
+    "employer": "Правительство Москвы"
+  },
+  {
+    "title": "Data Scientist (ML)",
+    "url": "https://hh.ru/vacancy/119789014",
+    "salary_from": 4000,
+    "salary_to": 4500,
+    "description": "Постоянное исследование новейших технологий и методов в области анализа данных и машинного обучения. -Определение метрик бизнес сущностей и их векторизация...",
+    "employer": "Шарп Девелоперс"
+  },
+  {
+    "title": "ML Engineer/Data Scientist",
+    "url": "https://hh.ru/vacancy/120338244",
+    "salary_from": 4000,
+    "salary_to": 8000,
+    "description": "Высокий уровень знаний по математике, статистике и теории вероятности . Опыт разработки и внедрения <highlighttext>ML</highlighttext>-моделей, особенно связанных с прогнозированием доходов. ",
+    "employer": "Adapty"
+  },
+  {
+    "title": "ML Engineer [Middle]",
+    "url": "https://hh.ru/vacancy/120166633",
+    "salary_from": 3000,
+    "salary_to": 3500,
+    "description": "Strong Python Skills: Proficiency in Python is essential, including practical experience with relevant <highlighttext>ML</highlighttext>/NLP libraries (e.g., Hugging Face...",
+    "employer": "TESERACT PTE. LTD."
+  },
+  {
+    "title": "Middle Product Analyst (AI/ML)",
+    "url": "https://hh.ru/vacancy/119866212",
+    "salary_from": 3000,
+    "salary_to": null,
+    "description": "У тебя сильное логическое и аналитическое мышление. Есть опыт в data/product-аналитике или смежных направлениях. Уровень английского B1...",
+    "employer": "High Sky"
+  },
+  {
+    "title": "ML-инженер",
+    "url": "https://hh.ru/vacancy/120151107",
+    "salary_from": 2000,
+    "salary_to": null,
+    "description": "NLP (знание и опыт применения алгоритмов кластеризации/классификации, классический <highlighttext>ML</highlighttext>, Файнтьюн LLM, P-tune, LoRA, RLHF, хотя бы часть). ",
+    "employer": "Пахотина Ксения Евгеньевна"
+  },
+  {
+    "title": "Разработчик ML",
+    "url": "https://hh.ru/vacancy/120478343",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт с распределенными системами (Spark, Hadoop, MapReduce). Опыт с <highlighttext>ML</highlighttext>-фреймворками (XGBoost, LightGBM, TensorFlow/PyTorch). Знание методов NLP (нормализация текста...",
+    "employer": "Корпорация ЭЛАР"
+  },
+  {
+    "title": "ML-инженер",
+    "url": "https://hh.ru/vacancy/120591437",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Уверенное владение Python и ключевыми <highlighttext>ML</highlighttext>/DL библиотеками. Опыт работы в NLP направлении. Знание библиотек для NLP (NLTK, spaCy, Hugging...",
+    "employer": "Lexicom"
+  },
+  {
+    "title": "ML-инженер",
+    "url": "https://hh.ru/vacancy/118458994",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знаешь, как анализировать данные, понимаешь, как работают алгоритмы машинного обучения (<highlighttext>ML</highlighttext>). Опыт разработки моделей машинного обучения с использованием современных DL...",
+    "employer": "РОВИ Факторинг Плюс"
+  },
+  {
+    "title": "ML-инженер",
+    "url": "https://hh.ru/vacancy/120516523",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Уверенное владение Python (OOP, понимание структуры проектов). Опыт работы с популярными <highlighttext>ML</highlighttext>/NLP библиотеками: PyTorch, HuggingFace Transformers, NumPy, Pandas, Scikit...",
+    "employer": "Кейсистемс"
+  },
+  {
+    "title": "Project Manager (ML & Sports Tech)",
+    "url": "https://hh.ru/vacancy/120590753",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт взаимодействия с разработчиками, сис админами, <highlighttext>ML</highlighttext>-инженерами, бизнес-заказчиками. Способность управлять рисками, находить баланс между бизнес-задачами и разработкой. ",
+    "employer": "STC"
+  },
+  {
+    "title": "Python-разработчик (ML-инженер)",
+    "url": "https://hh.ru/vacancy/120553492",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт разработки на Python от 4 лет. Опыт работы с Apache Airflow для автоматизации и оркестровки рабочих процессов, что включает...",
+    "employer": "СИГМА"
+  },
+  {
+    "title": "Junior Analyst/Project Manager AI/ML",
+    "url": "https://hh.ru/vacancy/119864364",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Имеет экспертизу в Data Science и Machine Learning (или большое желание изучить и развиваться в сфере <highlighttext>ML</highlighttext>). Обладает системным мышлением...",
+    "employer": "High Sky"
+  },
+  {
+    "title": "ML - разработчик",
+    "url": "https://hh.ru/vacancy/120476009",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Понимание принципов классического <highlighttext>ML</highlighttext>. Опыт разработки и продакшен-внедрения <highlighttext>ML</highlighttext>/NLP-моделей. Уверенное знание Python, SQL и <highlighttext>ML</highlighttext>-библиотек. ",
+    "employer": "getmatch"
+  },
+  {
+    "title": "ML Engineer / Инженер по машинному обучению",
+    "url": "https://hh.ru/vacancy/120648778",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Навыки оптимизации моделей для использования в проде. Хорошее понимание <highlighttext>ML</highlighttext>-метрик и A/B тестирования. Опыт работы с контейнеризацией (Docker...",
+    "employer": "Flowwow"
+  },
+  {
+    "title": "Data Scientist/Разработчик машинного обучения (ML, NLP, LLM) Middle",
+    "url": "https://hh.ru/vacancy/120389801",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знание алгоритмов, структур данных и понимание современных подходов в <highlighttext>ML</highlighttext>/DL (включая разработку, внедрение и сопровождение). Знания машинного обучения и...",
+    "employer": "B2B-Center"
+  },
+  {
+    "title": "AI/ML Product manager/Business Analyst",
+    "url": "https://hh.ru/vacancy/119858676",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Имеете опыт в анализе данных и понимание основ <highlighttext>ML</highlighttext>, понимание процессов разработки <highlighttext>ML</highlighttext>-моделей (от сбора данных до продакшена). ",
+    "employer": "High Sky"
+  },
+  {
+    "title": "ML Инженер / Инженер по машинному обучению",
+    "url": "https://hh.ru/vacancy/120489768",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "ЧТО ЖДЁМ ОТ ОПЫТА: 1) Опыт работы от 2 лет в задачах машинного обучения (ИИ и классического). 2) Профессиональные навыки...",
+    "employer": "Ред Софт"
+  },
+  {
+    "title": "ML/Data Engineer",
+    "url": "https://hh.ru/vacancy/120626164",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "...engineer / <highlighttext>ml</highlighttext> engineer от 3 лет. Хорошие знания линейной алгебры, теории вероятности, статистики. Знание классических алгоритмов и принципов <highlighttext>ML</highlighttext>. ",
+    "employer": "Ресурс Атэ"
+  },
+  {
+    "title": "ML Engineer (CV, OCR)",
+    "url": "https://hh.ru/vacancy/120537336",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы с Python и основными библиотеками: NumPy, Pandas, scikit-learn, TensorFlow, OpenCV. Знание правовых аспектов для работы с персональными...",
+    "employer": "Попхадзе София Михеиловна"
+  },
+  {
+    "title": "Разработчик ML (LLM, VLM, RAG)",
+    "url": "https://hh.ru/vacancy/120473091",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Навыки программирования на Python или других языках, используемых в <highlighttext>ML</highlighttext>. Способность работать в команде и эффективно коммуницировать. Желание учиться и...",
+    "employer": "Корпорация ЭЛАР"
+  },
+  {
+    "title": "Менеджер проектов в ML",
+    "url": "https://hh.ru/vacancy/120438145",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знание технологий и методологий проведения бизнес-анализа и системного анализа. — знание жизненных циклов разработки и эксплуатации программного обеспечения. — ",
+    "employer": "Koronatech"
+  },
+  {
+    "title": "ML инженер (специализация компьютерное зрение)",
+    "url": "https://hh.ru/vacancy/120556885",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Высшее профильное образование (математик / инженер-программист). Опыт работы в качестве computer vision engineer от 3 лет. Идеальное знание Python, Pytorch. ",
+    "employer": "Калашников-ГСН"
+  },
+  {
+    "title": "Дата-сайентист (ML)",
+    "url": "https://hh.ru/vacancy/120567507",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт разработки и внедрения <highlighttext>ML</highlighttext>-моделей в прод. Знакомство с временными рядами и методами прогнозирования (ARIMA, Prophet, SARIMAX и др.). ",
+    "employer": "СДЭК"
+  },
+  {
+    "title": "Product Analyst/Project Manager AI/ML",
+    "url": "https://hh.ru/vacancy/120130435",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Имеет экспертизу в Data Science и Machine Learning (или большое желание изучить и развиваться в сфере <highlighttext>ML</highlighttext>). Обладает системным мышлением...",
+    "employer": "High Sky"
+  },
+  {
+    "title": "Ведущий разработчик машинного обучения ( Data Platform и ML )",
+    "url": "https://hh.ru/vacancy/120683685",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знание стандартных структур данных, ООП, <highlighttext>ML</highlighttext>-ориентированный Python и библиотеки (pandas, sklearn, PyTorch и т.п.). Classic <highlighttext>ML</highlighttext>, Forecasting, Anomaly...",
+    "employer": "БЮРО 1440"
+  },
+  {
+    "title": "Стажер (AI/ML)",
+    "url": "https://hh.ru/vacancy/119842855",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Желание развиваться в области AI/<highlighttext>ML</highlighttext>. Готовность к работе в команде. Умение быстро обучаться. Увлеченность тематикой AI/<highlighttext>ML</highlighttext>.",
+    "employer": "MBANK"
+  },
+  {
+    "title": "Data scientist ML",
+    "url": "https://hh.ru/vacancy/119908809",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы в роли Data scientist от 2 лет. Уверенные знания Python и SQL. Хороший мат. аппарат (мат. ",
+    "employer": "Ростелеком"
+  },
+  {
+    "title": "Советник по внедрению искусственного интеллекта ( ML AI )",
+    "url": "https://hh.ru/vacancy/119312296",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Очень хорошее понимание систем машинного/глубокого обучения, искусственного интеллекта, генеративных моделей. Опыт в финансовой/финтех сфере. Очень желательно хорошее знание...",
+    "employer": "Публичная Компания «Freedom Finance Global PLC»"
+  },
+  {
+    "title": "ML-инженер",
+    "url": "https://hh.ru/vacancy/120592198",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Требования к опыту: — Опыт работы с <highlighttext>ML</highlighttext>/NLP проектами от 3 лет. — Умение оценивать сроки и ресурсы для <highlighttext>ML</highlighttext> задач. — ",
+    "employer": "Центр финансового управления"
+  },
+  {
+    "title": "ML Engineer",
+    "url": "https://hh.ru/vacancy/120627688",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы: От 3 до 5 лет в области разработки и доработки <highlighttext>ML</highlighttext>-моделей. Профессиональный опыт: Технические навыки:",
+    "employer": "ФосАгро"
+  },
+  {
+    "title": "Главный разработчик Python/ ML инженер (Проект \"Сирин\" Платформа Лукоморье)",
+    "url": "https://hh.ru/vacancy/120389685",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "...Science / <highlighttext>ML</highlighttext>-проектах обязателен. Стек: FastAPI, SQL/NoSQL БД, Celery, Redis, Docker, Git, Nginx, Kafka. Экспертиза в AI/<highlighttext>ML</highlighttext>. ",
+    "employer": "Ростелеком Информационные Технологии"
+  },
+  {
+    "title": "ML Engineer",
+    "url": "https://hh.ru/vacancy/120627689",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы: От 3 до 5 лет в области разработки и доработки <highlighttext>ML</highlighttext>-моделей. Профессиональный опыт: Технические навыки:",
+    "employer": "ФосАгро"
+  },
+  {
+    "title": "ML Engineer",
+    "url": "https://hh.ru/vacancy/120620638",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Требования: Образование высшее, техническое. Опыт коммерческой разработки и внедрения <highlighttext>ML</highlighttext>-моделей в прод. Опыт работы с консольным Linux. ",
+    "employer": "РТК Радиология"
+  },
+  {
+    "title": "ML/AI Engineer",
+    "url": "https://hh.ru/vacancy/120649607",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт участия в разработке и развертывании AI/<highlighttext>ML</highlighttext> решений полного цикла - от прототипа до промышленного решения от 2-х лет. ",
+    "employer": "ИнтэксСофт"
+  },
+  {
+    "title": "ML Engineer / ML-инженер",
+    "url": "https://hh.ru/vacancy/120381987",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Высшее образование (компьютерные науки, инженерия, статистика, математика или смежные области). - Минимум 3 года опыта работы в управлении тематическими или техническое...",
+    "employer": "Excdev"
+  },
+  {
+    "title": "ML engineer",
+    "url": "https://hh.ru/vacancy/119593592",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Высшее техническое образование. Уверенное знание Python и <highlighttext>ML</highlighttext>-фреймворков (PyTorch, TensorFlow, Hugging Face, Keras и др.). Опыт работы с LLM...",
+    "employer": "СТА ЛОГИСТИК"
+  },
+  {
+    "title": "ML Engineer (ML Инженер)",
+    "url": "https://hh.ru/vacancy/120470368",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "От 3 до 5 лет практического опыта в разработке и внедрении AI/<highlighttext>ML</highlighttext> решений. Отличное знание Python и фреймворков (в...",
+    "employer": "Hunt For You"
+  },
+  {
+    "title": "ML-разработчик",
+    "url": "https://hh.ru/vacancy/120407434",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знать VCS Git. Знать классические алгоритмы <highlighttext>ML</highlighttext> и архитектуры нейронных сетей. Иметь опыт работы: С Python (от 3.8 и...",
+    "employer": "Ижевский нефтяной научный центр"
+  },
+  {
+    "title": "Middle DevOps-Engineer (ML-инфраструктура)",
+    "url": "https://hh.ru/vacancy/120188724",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "...с <highlighttext>ML</highlighttext>-инфраструктурой. Понимание структуры <highlighttext>ML</highlighttext>-конвейеров и метрик оценки качества моделей. Опыт работы с GPU-вычислениями и распределенными <highlighttext>ML</highlighttext>...",
+    "employer": "КИТТ"
+  },
+  {
+    "title": "ML engineer",
+    "url": "https://hh.ru/vacancy/119813378",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Хорошие знания математики: линейная алгебра, теория вероятности, статистика, численные методы, мат. анализ, графы. Отличные знания Python. Опыт обучения нейронных сетей. ",
+    "employer": "Эйчар Рокет"
+  },
+  {
+    "title": "ML-инженер (рекомендательная система)",
+    "url": "https://hh.ru/vacancy/120434244",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "DS стек (numpy, pandas, scikit-learn, xgboost/catboost). Классический <highlighttext>ML</highlighttext> (линейные/деревянные модели, метрики, валидация и т.д.). ",
+    "employer": "Rambler&Co"
+  },
+  {
+    "title": "Менеджер проектов в ML",
+    "url": "https://hh.ru/vacancy/120438144",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знание технологий и методологий проведения бизнес-анализа и системного анализа. — знание жизненных циклов разработки и эксплуатации программного обеспечения. — ",
+    "employer": "Koronatech"
+  },
+  {
+    "title": "Python разработчик / ML-инженер",
+    "url": "https://hh.ru/vacancy/120593693",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Желание развиваться в области DL и <highlighttext>ML</highlighttext>. Опыт работы с Docker, Docker Compose. Опыт использования MLOps-инструментов (MLFlow, ClearML и...",
+    "employer": "Федеральное автономное учреждение Государственный Научно-Исследовательский Институт Авиационных Систем"
+  },
+  {
+    "title": "Middle ML Engineer",
+    "url": "https://hh.ru/vacancy/118189921",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Имеете более 2 лет опыта в <highlighttext>ML</highlighttext>. Знакомы с актуальным стеком в DL NLP (pytorch / tf / transformers / LLM) или имеете...",
+    "employer": "Voximplant"
+  },
+  {
+    "title": "ML Engineer (Центр прикладных GenAI исследований)",
+    "url": "https://hh.ru/vacancy/120036016",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Любопытство, желание и готовность развиваться. Опыт использования GenAI продуктов для личной эффективности и/или разработки продуктов. Знание Python экосистемы для...",
+    "employer": "СБЕР"
+  },
+  {
+    "title": "ML-аналитик/Data Scientist",
+    "url": "https://hh.ru/vacancy/117898655",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знание внутреннего устройства <highlighttext>ML</highlighttext>-алгоритмов классификации (логрегрессия, RandomForest, различные бустинги, MLP, CNN). Знание методов кластерного анализа, сегментирования (k-means, деревья...",
+    "employer": "Совкомбанк"
+  },
+  {
+    "title": "Senior Business Analyst/Project Manager AI/ML",
+    "url": "https://hh.ru/vacancy/119860096",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Имеет экспертизу в Data Science и Machine Learning (понимание моделей, метрик, подходов к валидации). Обладает системным мышлением: разлагает сложные задачи...",
+    "employer": "High Sky"
+  },
+  {
+    "title": "ML-инженер",
+    "url": "https://hh.ru/vacancy/120020650",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Способность самостоятельно исследовать новые <highlighttext>ML</highlighttext> подходы, читать статьи на английском языке и воспроизводить их. Опыт в создании и настройке <highlighttext>ML</highlighttext>...",
+    "employer": "Академия Компьютерных Технологий и Дизайна"
+  },
+  {
+    "title": "AL/ML/Prompt engineer (Python, GPT, LLaMA, Claude, open-source LLM)",
+    "url": "https://hh.ru/vacancy/120404996",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Понимание архитектур и трендов в нейросетях (GPT, LLaMA, Claude, open-source LLM). Опыт обучения/дообучения моделей (fine-tuning, LoRA, RAG...",
+    "employer": "Плейспартс"
+  },
+  {
+    "title": "NLP-инженер / ML-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/120574366",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы с большими текстовыми датасетами и построения конвейеров ETL. - Базовые знания <highlighttext>ML</highlighttext>/DL, практика с TensorFlow или PyTorch. - ",
+    "employer": "ATEX AI"
+  },
+  {
+    "title": "Python-разработчик (ML cервисы)",
+    "url": "https://hh.ru/vacancy/119951674",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знание основ ООП, паттернов проектирования, опыт разработки приложений с многопоточностью. Опыт разработки с использованием базовых библиотек для работы с данными...",
+    "employer": "ФГУП ГлавНИВЦ Управления делами Президента Российской Федерации"
+  },
+  {
+    "title": "Разработчик нейросетевых алгоритмов / ML Engineer (LLM)",
+    "url": "https://hh.ru/vacancy/120581999",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт участия в open-source проектах. Научные публикации. Участие в соревнованиях по <highlighttext>ML</highlighttext>. Опыт создания агентных/мультиагентных систем на базе...",
+    "employer": "Федеральное автономное учреждение Государственный Научно-Исследовательский Институт Авиационных Систем"
+  },
+  {
+    "title": "Системный аналитик со знанием ml",
+    "url": "https://hh.ru/vacancy/120385131",
+    "salary_from": null,
+    "salary_to": 270000,
+    "description": "Опыт работы в роли Системного аналитика от 2 лет. Опыт работы с <highlighttext>ML</highlighttext>/AI. Знание и понимание процессов разработки и...",
+    "employer": "Spice IT"
+  },
+  {
+    "title": "AI-СПЕЦИАЛИСТ (Data Scientist + ML Engineer)",
+    "url": "https://hh.ru/vacancy/120655579",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Имеет 2–5 лет коммерческого опыта в AI/<highlighttext>ML</highlighttext>-проектах. Работал с NLP, нейросетями, пайплайнами обработки данных. Писал продакшн-код...",
+    "employer": "ТендерПроКонсалт"
+  },
+  {
+    "title": "ML-инженер",
+    "url": "https://hh.ru/vacancy/120462022",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "...<highlighttext>ML</highlighttext>-стеком: scikit-learn, PyTorch или TensorFlow. Умение писать воспроизводимый, чистый и поддерживаемый код. Коммерческий опыт разработки и внедрения <highlighttext>ML</highlighttext>...",
+    "employer": "DDX Fitness"
+  },
+  {
+    "title": "ML разработчик",
+    "url": "https://hh.ru/vacancy/120212223",
+    "salary_from": null,
+    "salary_to": 130000,
+    "description": "Уверенно владеешь библиотеками машинного обучения и компьютерного зрения - PyTorch, TensorFlow, OpenCV. Умеешь писать код, который приятно читать. Умеешь разбираться в...",
+    "employer": "Группа компаний «Триумф»"
+  },
+  {
+    "title": "ML Engineer (Инженер по машинному обучению)",
+    "url": "https://hh.ru/vacancy/120113876",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы с Python, TensorFlow/Keras, PyTorch, Hugging Face Transformers. Знание NLP и больших языковых моделей (LLM, например, LLaMA, Mistral). ",
+    "employer": "Першина Маргарита Юрьевна"
+  },
+  {
+    "title": "Разработчик Python (ML)",
+    "url": "https://hh.ru/vacancy/118718432",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Хорошо знаете Python (<highlighttext>ML</highlighttext>). Как плюс — опыт участия в соревнованиях, например в kaggle. Имеете близкое знакомство с ОС Linux и...",
+    "employer": "Эйч-Эль-Эль"
+  },
+  {
+    "title": "Ведущий Frontend - разработчик (Data Platform и ML )",
+    "url": "https://hh.ru/vacancy/120019578",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Хорошее знание React.js.. Хорошее знание SQL, в том числе опыт написания высокопроизводительных SQL-запросов. Опыт разработки бэкендов. Умение проектировать и...",
+    "employer": "БЮРО 1440"
+  },
+  {
+    "title": "Team Lead ML",
+    "url": "https://hh.ru/vacancy/120625927",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Общий опыт обучения и развертывания <highlighttext>ML</highlighttext> моделей. Знакомство с лучшими практиками разработки ПО, включая тестирование, профилирование, отладку, документирование, версионирование, отслеживание...",
+    "employer": "Градиент"
+  },
+  {
+    "title": "Аналитик ML-моделей/Data Engineer",
+    "url": "https://hh.ru/vacancy/120548863",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Какие знания и навыки для нас важны: SQL. Базовые знания <highlighttext>ML</highlighttext> (опционально). Apache Superset (опционально).",
+    "employer": "Т1"
+  },
+  {
+    "title": "Разработчик ML",
+    "url": "https://hh.ru/vacancy/119787194",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Глубокая экспертиза в Python, уверенное использование asyncio, threading и multiprocessing, а также навыки в профилировании и решении задач, связанных с...",
+    "employer": "FIX PRICE"
+  },
+  {
+    "title": "Системный аналитик (ML)",
+    "url": "https://hh.ru/vacancy/120680836",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Наличие высшего образования обязательно. Опыт работы в системном анализе не менее 2-х лет. Опыт работы с реляционными БД и...",
+    "employer": "Т1"
+  },
+  {
+    "title": "Industrial Data Analyst (DSP & ML Engineer)",
+    "url": "https://hh.ru/vacancy/120031342",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Аналитические и исследовательские навыки:",
+    "employer": "Quatromatic"
+  },
+  {
+    "title": "Специалист по белковому дизайну ML / Биоинформатик",
+    "url": "https://hh.ru/vacancy/120280731",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Наличие опыта работы (в идеале - разработки) с <highlighttext>ML</highlighttext> инструментами белкового дизайна: Variational autoencoders, Protein large language models, Inverse folding models...",
+    "employer": "МФТИ"
+  },
+  {
+    "title": "ML-инженер",
+    "url": "https://hh.ru/vacancy/119925061",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "...в DS/<highlighttext>ML</highlighttext> от 3 лет, а также от года в банках/fintech/marketplace/телекоме. Отличное владение классическим <highlighttext>ML</highlighttext> и...",
+    "employer": "WILDBERRIES"
+  },
+  {
+    "title": "AI/ML Specialist (NLP/CV) в VR EdTech",
+    "url": "https://hh.ru/vacancy/120654448",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Уверенное владение Python и основными <highlighttext>ML</highlighttext>-фреймворками (TensorFlow, PyTorch, scikit-learn). Понимание принципов интеграции <highlighttext>ML</highlighttext>-моделей в реальном времени. ",
+    "employer": "Носов Владимир Сергеевич"
+  },
+  {
+    "title": "Product owner/Менеджер продукта (ML/AI)",
+    "url": "https://hh.ru/vacancy/120249229",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Практический опыт запуска решений на базе <highlighttext>ML</highlighttext> / AI (в роли PO, аналитика или DS-партнёра). Понимание полного цикла работы <highlighttext>ML</highlighttext>...",
+    "employer": "Марс"
+  },
+  {
+    "title": "Middle ML engineer (NLP, LLM)",
+    "url": "https://hh.ru/vacancy/117653395",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Глубокое понимание и опыт применения классических <highlighttext>ML</highlighttext>-алгоритмов. Опыт работы с NLP. Навыки Prompt Engineering. Опыт работы с LLM-моделями. ",
+    "employer": "Совкомбанк Технологии"
+  },
+  {
+    "title": "Старший data scientist (ML)",
+    "url": "https://hh.ru/vacancy/116416326",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Reinforcement Learning: методы обучения с подкреплением в контексте рекомендаций. Знание современных инструментов и основных <highlighttext>ML</highlighttext>-фреймворков для машинного обучения. ",
+    "employer": "Совкомбанк"
+  },
+  {
+    "title": "ML - инженер",
+    "url": "https://hh.ru/vacancy/116357268",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "...кластеризация, бустинг и т.д.) <highlighttext>ML</highlighttext>-моделей, их ограничения по применению. Понимание применимости метрик качества <highlighttext>ML</highlighttext>-моделей. Владение английским языком...",
+    "employer": "СБЕР"
+  },
+  {
+    "title": "Аналитик ML-моделей/Data Engineer",
+    "url": "https://hh.ru/vacancy/120548864",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Какие знания и навыки для нас важны: SQL. Базовые знания <highlighttext>ML</highlighttext> (опционально). Apache Superset (опционально).",
+    "employer": "Т1"
+  },
+  {
+    "title": "Системный аналитик ML",
+    "url": "https://hh.ru/vacancy/120431419",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы с проектами по внедрению и развитию решений на базе AI/<highlighttext>ML</highlighttext>. Знания принципов работы алгоритмов AI/<highlighttext>ML</highlighttext>: классификация...",
+    "employer": "Ростелеком"
+  },
+  {
+    "title": "Руководитель проектов / Project manager (AI / ML / BI)",
+    "url": "https://hh.ru/vacancy/119249004",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Хорошее ориентирование в основных технологиях AI и <highlighttext>ML</highlighttext>: генеративные нейросети и сервисы на их основе – знание основных игроков LLM/LMM. ",
+    "employer": "WONE IT"
+  },
+  {
+    "title": "Архитектор AI/ML",
+    "url": "https://hh.ru/vacancy/120603754",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Желательно наличие ученой степени кандидата или доктора наук в области компьютерных наук; рассматриваются аспиранты с 2-3 годами обучения. ",
+    "employer": "МосТрансПроект"
+  },
+  {
+    "title": "Middle ML-инженер (RuBackup)",
+    "url": "https://hh.ru/vacancy/120635371",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт разработки и внедрения <highlighttext>ML</highlighttext>-моделей в продакшен с использованием Python и популярных <highlighttext>ML</highlighttext>-фреймворков (TensorFlow, PyTorch, scikit-learn). ",
+    "employer": "Группа компаний Астра"
+  },
+  {
+    "title": "ML-инженер (middle)",
+    "url": "https://hh.ru/vacancy/120547762",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Глубокое понимание пайплайна обработки текстов, включая предобработку данных и векторизацию. Опыт работы с популярными <highlighttext>ML</highlighttext>/NLP библиотеками: PyTorch, HuggingFace Transformers...",
+    "employer": "Кейсистемс"
+  },
+  {
+    "title": "Стажер ML/AI",
+    "url": "https://hh.ru/vacancy/119907070",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Знания в области <highlighttext>ML</highlighttext>, в частности CV и NLP. Знание Python, фреймворки PyTorch, TensorFlow. Навыки подготовки данных к обучению моделей. ",
+    "employer": "РУСАЛ"
+  },
+  {
+    "title": "Продуктовый аналитик (ML)",
+    "url": "https://hh.ru/vacancy/120070153",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Высшее образование в области вычислительной математики, статистики, анализа данных. Уверенное владение SQL (опыт работы с Greenplum будет преимуществом). ",
+    "employer": "МТС"
+  },
+  {
+    "title": "Senior Product Manager (Платформы для AI / ML)",
+    "url": "https://hh.ru/vacancy/120585271",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Обязателен опыт работы с инфраструктурными решениями: серверы, виртуализация, контейнеризация и т.п.. Явным преимуществом будет понимание технологий и принципов построения...",
+    "employer": "КРОК"
+  },
+  {
+    "title": "ML Engineer / ML инженер",
+    "url": "https://hh.ru/vacancy/120338693",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Уверенное владение разговорным английским языком (B2 и выше), достаточным для работы в международной команде. Местонахождение: только страны Европы и...",
+    "employer": "Новео"
+  },
+  {
+    "title": "ML-инженер (портал Рамблер)",
+    "url": "https://hh.ru/vacancy/120639012",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Опыт работы в роли Data Scientist от 3 лет, предпочтительно в области обработки естественного языка (NLP). Уверенные знания и опыт...",
+    "employer": "Rambler&Co"
+  },
+  {
+    "title": "ML-инженер",
+    "url": "https://hh.ru/vacancy/114301634",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Высшее техническое образование. Предпочтение отдаётся выпускникам МГУ (мехмат, ВМК), МГТУ, МИФИ, МФТИ. Рассматриваем на вакансию технического специалиста с опытом работы...",
+    "employer": "НПФ Будущее"
+  },
+  {
+    "title": "ML-инженер",
+    "url": "https://hh.ru/vacancy/119829198",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Что ты будешь делать: - 2+ года коммерческого опыта в <highlighttext>ML</highlighttext>. - запущенные успешные проекты с 10 000+ пользователей и...",
+    "employer": "Vivo Group International LLC"
+  },
+  {
+    "title": "ML-инженер (Machine learning engineer)",
+    "url": "https://hh.ru/vacancy/120170286",
+    "salary_from": null,
+    "salary_to": null,
+    "description": "Уверенное владение Python и библиотеками для анализа данных, такими как scikit-learn, Pandas, NumPy, а также фреймворками и библиотеками для...",
+    "employer": "Программные решения плюс"
+  }
+]
