@@ -101,10 +101,20 @@ def user_interaction():
         # Получение вакансий
         keyword = input("\nВведите ключевое слово для поиска вакансий: ")
         hh_api = HeadHunterAPI()
+
+        # Проверка соединения с API
+        try:
+            hh_api._connect_to_api()
+            print("Соединение с API установлено успешно")
+        except ConnectionError as e:
+            print(f"Ошибка соединения с API: {e}")
+            return
+
         raw_vacancies = hh_api.get_vacancies(keyword)
         vacancies = convert_to_vacancy_objects(raw_vacancies)
 
         # Сохранение в базу данных
+        print(f"\nСохранение {len(vacancies)} вакансий в базу данных...")
         for vacancy in vacancies:
             try:
                 db_manager.add_vacancy(vacancy.to_dict())
@@ -120,7 +130,7 @@ def user_interaction():
         sorted_vacancies = sorted(filtered, reverse=True)
 
         # Вывод результатов
-        print(f"\nНайдено вакансий: {len(sorted_vacancies)}")
+        print(f"\nНайдено вакансий после фильтрации: {len(sorted_vacancies)}")
         for i, vacancy in enumerate(sorted_vacancies[:10], 1):
             print(f"{i}. {vacancy}")
 
@@ -142,7 +152,7 @@ def user_interaction():
         # Очистка базы данных
         clear_db = input("\nХотите очистить базу данных от вакансий? (да/нет): ")
         if clear_db.lower() == "да":
-            db_manager.delete_vacancy()
+            db_manager.delete_vacancies()
             print("База данных очищена.")
 
     except Exception as e:
